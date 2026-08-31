@@ -1,0 +1,1004 @@
+Order_ID,Customer_ID,Customer_Name,Email,Order_Date,Product,Category,Quantity,Unit_Price,Total_Amount,City,Payment_Method,Order_Status
+ORD-0627,CUST-1021,Aditya Gupta,aditya.gupta852@gmail.com,"Jul 04, 2025",Water Bottle,Home,3,"₹1,299","INR 3,897",Lucknow,Cash on Delivery,pending
+ORD-0630,CUST-1095,Sneha Singh,sneha.singh721@gmail.com,"Apr 19, 2025",Shampoo,Beauty,6,₹ 1299,"₹7,794",Lucknow,Credit Card,cancelled
+ORD-0848,CUST-1058,Aditya Sharma,aditya.sharma412@gmail.com,"Jun 02, 2025",Power Bank,Electronics,3,₹ 999,"₹2,997",Bangalore,upi,Delivered
+ORD-0515,CUST-1181,Aditya Mishra,aditya.mishra34@gmail.com,"Aug 21, 2025",Jeans,Fashion,6,INR 999,₹ 5994,delhi,debit card,Cancelled
+ORD-0366,CUST-1235,Karan Jain,karan.jain610@gmail.com,13/04/2025,Hoodie,Fashion,3,"₹1,999","₹5,997",pune,Debit Card,cancelled
+ORD-0904,CUST-1021,Sneha Kumar,sneha.kumar336@gmail.com,24/12/2025,Excel Guide,Books,6,₹399,"2,394",Bengaluru,COD,shipped
+ORD-0656,CUST-1246,Aarav Mishra,aarav.mishra826@gmail.com,17-11-2025,Wireless Mouse,Electronics,4,799,"INR 3,196",New Delhi,COD,Shipped
+ORD-0529,CUST-1156,Rohan Kumar,rohan.kumar35@gmail.com,2025-07-25,Keyboard,Electronics,6,₹ 1299,"7,794",New Delhi,debit card,Delivered
+ORD-0322,CUST-1028,Vikas Mishra,vikas.mishra594@gmail.com,"Dec 08, 2025",T-Shirt,Fashion,3,1299,"3,897",Bengaluru,UPI,cancelled
+ORD-0071,CUST-1142,Rahul Yadav,rahul.yadav965@gmail.com,30-05-2025,USB Cable,Electronics,1,₹ 1999,₹ 1999,Pune,credit card,Cancelled
+ORD-0791,CUST-1090,Rahul Jain,rahul.jain553@gmail.com,2025-06-21,Wireless Mouse,Electronics,5,₹ 299,"INR 1,495",jaipur ,Debit Card,shipped
+ORD-0372,CUST-1158,Priya Gupta,priya.gupta866@gmail.com,13-11-2025,Bedsheet,Home,2,INR 399,₹798,New Delhi,upi,Cancelled
+ORD-0835,CUST-1047,Vikas Singh,vikas.singh225@gmail.com,"Dec 18, 2025",Face Wash,Beauty,4,₹ 249,996,jaipur ,COD,DELIVERED
+ORD-0457,CUST-1120,Priya Sharma,priya.sharma480@gmail.com,18/07/2025,Power Bank,Electronics,6,₹299,"1,794",Delhi,upi,Pending
+ORD-0248,CUST-1170,Aditya Singh,aditya.singh527@gmail.com,"Mar 10, 2025",Hoodie,Fashion,6,₹249,1494,Jaipur,UPI,pending
+ORD-0959,CUST-1150,Neha Patel,neha.patel914@gmail.com,26-04-2025,Perfume,Beauty,2,₹249,INR 498,mumbai ,Debit Card,pending
+ORD-0827,CUST-1215,Karan Jain,karan.jain17@gmail.com,2025-07-11,Face Wash,Beauty,3,999,"2,997",mumbai ,Debit Card,shipped
+ORD-0978,CUST-1083,Nitin Verma,nitin.verma496@gmail.com,"Mar 13, 2025",T-Shirt,Fashion,1,1299,"1,299",Bangalore,Cash on Delivery,Delivered
+ORD-0299,CUST-1058,Karan Verma,karan.verma360@gmail.com,08-09-2025,AI Fundamentals,Books,5,INR 599,"INR 2,995",Bengaluru,UPI,Shipped
+ORD-0102,CUST-1227,Priya Jain,priya.jain439@gmail.com,21-08-2025,Wireless Mouse,Electronics,6,"INR 1,299","7,794",mumbai ,debit card,delivered
+ORD-0752,CUST-1047,Rahul Jain,rahul.jain591@gmail.com,17/05/2025,Data Analytics,Books,6,299,"INR 1,794",jaipur ,Cash on Delivery,Cancelled
+ORD-0605,CUST-1206,Vikas Yadav,vikas.yadav718@gmail.com,"Jul 27, 2025",Wireless Mouse,Electronics,2,"1,999",3998,Jaipur,debit card,pending
+ORD-0214,CUST-1068,Rohan Mishra,rohan.mishra114@gmail.com,2025-10-02,Table Lamp,Home,3,"2,499","7,497",Mumbai,COD,delivered
+ORD-0238,CUST-1179,Rohan Patel,rohan.patel953@gmail.com,2025-04-15,Bedsheet,Home,1,499,499,Bengaluru,upi,shipped
+ORD-0869,CUST-1004,Vikas Verma,vikas.verma545@gmail.com,2025-05-29,USB Cable,Electronics,6,299,₹ 1794,mumbai ,upi,shipped
+ORD-0282,CUST-1017,Priya Yadav,priya.yadav226@gmail.com,"Jul 28, 2025",Perfume,Beauty,6,249,"1,494",Delhi,cod,DELIVERED
+ORD-0378,CUST-1185,Rahul Yadav,rahul.yadav835@gmail.com,2025-01-05,Shampoo,Beauty,2,₹ 2499,₹ 4998,delhi,cod,cancelled
+ORD-0287,CUST-1056,Priya Kumar,priya.kumar632@gmail.com,06-06-2025,Table Lamp,Home,5,₹ 199,₹ 995,Bangalore,COD,shipped
+ORD-0389,CUST-1205,Neha Kumar,neha.kumar490@gmail.com,01/10/2025,Wireless Mouse,Electronics,5,₹ 299,₹ 1495,mumbai ,UPI,pending
+ORD-0883,CUST-1003,Rohan Yadav,rohan.yadav436@gmail.com,2025-08-06,Hoodie,Fashion,4,"₹2,499","9,996",Pune,upi,pending
+ORD-0717,CUST-1181,Simran Jain,simran.jain547@gmail.com,02-08-2025,Face Wash,Beauty,1,₹ 249,INR 249,delhi,debit card,DELIVERED
+ORD-0793,CUST-1197,Rohan Singh,rohan.singh601@gmail.com,07-08-2025,Lip Balm,Beauty,6,INR 999,"₹5,994",Bangalore,Credit Card,DELIVERED
+ORD-0097,CUST-1024,Simran Singh,simran.singh330@gmail.com,07-08-2025,Hoodie,Fashion,4,799,"3,196",delhi,COD,delivered
+ORD-0245,CUST-1198,  neha gupta ,neha.gupta308@gmail.com,16-10-2025,Power Bank,Electronics,4,199,INR 796,Pune,debit card,Cancelled
+ORD-0735,CUST-1114,Rahul Mehta,rahul.mehta780@gmail.com,25/10/2025,Storage Box,Home,4,249,₹ 996,jaipur ,Credit Card,DELIVERED
+ ORD-0056 ,CUST-1012,Priya Kumar,priya.kumar242@gmail.com,16/02/2025,Python Basics,Books,5,₹249,₹ 1245,delhi,Debit Card,Delivered
+ORD-0897,CUST-1123,Rohan Mishra,rohan.mishra936@gmail.com,09/11/2025,T-Shirt,Fashion,2,999,"₹1,998",Bengaluru,upi,cancelled
+ORD-0210,CUST-1201,Ananya Jain,ananya.jain952@gmail.com,13/02/2025,T-Shirt,Fashion,4,INR 249,996,mumbai ,debit card,Cancelled
+ORD-0260,CUST-1215,Simran Mehta,simran.mehta945@gmail.com,30/10/2025,Storage Box,Home,3,"2,499",7497,Jaipur,Credit Card,Shipped
+ORD-0159,CUST-1240,Priya Kumar,priya.kumar799@gmail.com,2025-05-28,Bedsheet,Home,5,₹ 499,"2,495",Pune,debit card,cancelled
+ORD-0496,CUST-1248,Aditya Gupta,aditya.gupta510@gmail.com,19/07/2025,Keyboard,Electronics,1,2499,"2,499",Pune,cod,Cancelled
+ORD-0526,CUST-1139,Neha Verma,neha.verma220@gmail.com,15/10/2025,Data Analytics,Books,4,499,"1,996",delhi,debit card,Cancelled
+ORD-0332,CUST-1249,Vikas Yadav,vikas.yadav54@gmail.com,2025-06-01,Excel Guide,Books,5,"1,299",6495,New Delhi,upi,DELIVERED
+ORD-0952,CUST-1069,Ananya Jain,ananya.jain328@gmail.com,2025-06-22,Data Analytics,Books,1,₹999,999,Lucknow,Cash on Delivery,Delivered
+ORD-0315,CUST-1184,Aarav Gupta,aarav.gupta874@gmail.com,21-08-2025,Wall Clock,Home,3,599,1797,Jaipur,COD,Pending
+ORD-0295,CUST-1054,Rahul Singh,rahul.singh509@gmail.com,2025-06-20,Shampoo,Beauty,3,"2,499","₹7,497",Delhi,COD,shipped
+ORD-0382,CUST-1042,Rahul Verma,rahul.verma665@gmail.com,"Jun 22, 2025",Excel Guide,Books,4,1999,7996,Bengaluru,upi,delivered
+ORD-0920,CUST-1192,Aditya Kumar,aditya.kumar942@gmail.com,05-05-2025,Body Lotion,Beauty,3,INR 399,"1,197",Mumbai,COD,Pending
+ORD-0573,CUST-1240,Rohan Gupta,rohan.gupta624@gmail.com,04-03-2025,AI Fundamentals,Books,3,999,2997,Lucknow,Cash on Delivery,Shipped
+ORD-0875,CUST-1149,Vikas Sharma,vikas.sharma944@gmail.com,14/10/2025,Lip Balm,Beauty,4,₹ 799,"₹3,196",delhi,Debit Card,Shipped
+ORD-0517,CUST-1045,Neha Sharma,neha.sharma123@gmail.com,16-07-2025,T-Shirt,Fashion,5,₹ 1999,9995,Delhi,debit card,Pending
+ORD-0718,CUST-1067,Sneha Singh,sneha.singh471@gmail.com,2025-10-18,Table Lamp,Home,4,INR 299,"INR 1,196",Delhi,Credit Card,Shipped
+ORD-0060,CUST-1221,Rohan Patel,rohan.patel792@gmail.com,2025-08-02,Excel Guide,Books,1,399,₹ 399,Pune,COD,shipped
+ORD-0674,CUST-1022,Karan Gupta,karan.gupta323@gmail.com,"Aug 06, 2025",Table Lamp,Home,4,399,"INR 1,596",Bangalore,Debit Card,cancelled
+ORD-0558,CUST-1101,Nitin Patel,nitin.patel711@gmail.com,"Oct 04, 2025",Power Bank,Electronics,6,₹ 999,5994,delhi,cod,Delivered
+ORD-0744,CUST-1037,Vikas Mehta,vikas.mehta545@gmail.com,2025-06-30,SQL Handbook,Books,2,"₹1,599","₹3,198",Mumbai,UPI,Shipped
+ORD-0381,CUST-1098,Nitin Patel,nitin.patel188@gmail.com,26-05-2025,Data Analytics,Books,5,"1,599",7995,Pune,COD,delivered
+ORD-0055,CUST-1070,Ananya Mishra,ananya.mishra387 @gmail.com,31-08-2025,Wall Clock,Home,6,₹ 399,2394,Bangalore,debit card,Cancelled
+ORD-0024,CUST-1034,Aarav Yadav,aarav.yadav646@gmail.com,16/10/2025,Hoodie,Fashion,3,₹249,747,Mumbai,cod,shipped
+ORD-0031,CUST-1222,Vikas Mehta,vikas.mehta322@gmail.com,2025-04-27,USB Cable,Electronics,2,₹399,INR 798,Bengaluru,debit card,shipped
+ORD-0954,CUST-1223,Rohan Jain,rohan.jain140@gmail.com,2025-01-07,Wireless Mouse,Electronics,4,2499,"₹9,996",delhi,credit card,Cancelled
+ORD-0430,CUST-1082,Nitin Mishra,nitin.mishra949@gmail.com,22-03-2025,Data Analytics,Books,4,₹299,1196,pune,upi,DELIVERED
+ORD-0011,CUST-1196,Sneha Singh,sneha.singh901@gmail.com,17-11-2025,Headphones,Electronics,5,299,1495,Mumbai,Credit Card,Pending
+ORD-0654,CUST-1021,Priya Sharma,priya.sharma294@gmail.com,"Aug 04, 2025",Cap,Fashion,1,"2,499","₹2,499",Bengaluru,credit card,Pending
+ORD-0809,CUST-1207,Karan Gupta,karan.gupta223@gmail.com,09/11/2025,Face Wash,Beauty,6,"INR 1,999",11994,jaipur ,COD,delivered
+ORD-0483,CUST-1068,Vikas Jain,vikas.jain497@gmail.com,"Jun 04, 2025",T-Shirt,Fashion,1,299,INR 299,Bengaluru,Cash on Delivery,Cancelled
+ORD-0446,CUST-1085,Rohan Jain,rohan.jain873@gmail.com,09/10/2025,Sneakers,Fashion,3,799,₹ 2397,delhi,upi,shipped
+ORD-0200,CUST-1075,Aarav Singh,aarav.singh372@gmail.com,11/10/2025,AI Fundamentals,Books,4,249,996,Bangalore,Cash on Delivery,Delivered
+ ORD-0225 ,CUST-1200,Rahul Mehta,rahul.mehta576@gmail.com,2025-03-26,Headphones,Electronics,2,799,"₹1,598",delhi,upi,pending
+ORD-0905,CUST-1244,Ananya Patel,ananya.patel225@gmail.com,04-03-2025,Table Lamp,Home,5,INR 399,"₹1,995",Mumbai,COD,Cancelled
+ORD-0108,CUST-1102,Rohan Jain,rohan.jain874@gmail.com,2025-02-24,SQL Handbook,Books,6,₹ 599,3594,Bengaluru,cod,delivered
+ORD-0219,CUST-1138,Vikas Verma,vikas.verma94@gmail.com,17/10/2025,Lip Balm,Beauty,6,INR 999,"5,994",Delhi,Debit Card,Shipped
+ORD-0421,CUST-1004,Neha Verma,neha.verma785@gmail.com,13/02/2025,Keyboard,Electronics,2,"₹1,999","INR 3,998",Jaipur,Credit Card,shipped
+ORD-0175,CUST-1136,Vikas Jain,vikas.jain394@gmail.com,2025-02-11,Wall Clock,Home,3,799,"₹2,397",delhi,cod,pending
+ORD-0895,CUST-1150,Aditya Gupta,aditya.gupta883@gmail.com,23-09-2025,Bedsheet,Home,1,₹ 1299,1299,Delhi,cod,delivered
+ORD-0519,CUST-1213,Karan Kumar,karan.kumar65@gmail.com,02-02-2025,Sneakers,Fashion,5,"1,999",₹ 9995,Pune,cod,cancelled
+ORD-0454,CUST-1106,Aditya Jain,aditya.jain201@gmail.com,01/11/2025,Perfume,Beauty,2,"1,599","3,198",Lucknow,UPI,shipped
+ORD-0929,CUST-1074,Priya Jain,priya.jain541@gmail.com,23-05-2025,Water Bottle,Home,6,"₹2,499","14,994",mumbai ,Credit Card,delivered
+ORD-0040,CUST-1216,Simran Patel,simran.patel446@gmail.com,"Oct 08, 2025",Excel Guide,Books,4,"INR 1,599",₹ 6396,Pune,Debit Card,Shipped
+ORD-0707,CUST-1074,Vikas Kumar,vikas.kumar178@gmail.com,2025-04-12,Python Basics,Books,4,₹ 2499,"INR 9,996",Jaipur,credit card,shipped
+ORD-0947,CUST-1109,Sneha Mishra,sneha.mishra951@gmail.com,19/03/2025,Face Wash,Beauty,1,2499,₹ 2499,Mumbai,Debit Card,Pending
+ORD-0352,CUST-1043,Rahul Mishra,rahul.mishra616@gmail.com,2025-03-24,Face Wash,Beauty,2,199,₹398,Jaipur,Credit Card,Delivered
+ORD-0067,CUST-1170,Karan Mehta,karan.mehta338@gmail.com,10/12/2025,Face Wash,Beauty,4,INR 599,"2,396",Bengaluru,COD,shipped
+ORD-0278,CUST-1237,Simran Mishra,simran.mishra611@gmail.com,"Sep 25, 2025",Cap,Fashion,4,₹199,₹ 796,delhi,Credit Card,delivered
+ORD-0068,CUST-1106,Rohan Mehta,rohan.mehta268@gmail.com,15/06/2025,Perfume,Beauty,1,₹ 999,999,Delhi,cod,Cancelled
+ORD-0906,CUST-1005,Ananya Kumar,ananya.kumar612@gmail.com,16-07-2025,Wireless Mouse,Electronics,4,₹199,₹796,mumbai ,Cash on Delivery,Cancelled
+ORD-0733,CUST-1209,Rahul Gupta,rahul.gupta878@gmail.com,26/04/2025,Hoodie,Fashion,1,INR 599,₹ 599,Lucknow,Cash on Delivery,shipped
+ORD-0817,CUST-1037,Aarav Gupta,aarav.gupta898@gmail.com,"Jan 12, 2025",Hoodie,Fashion,4,399,"1,596",jaipur ,Credit Card,delivered
+ORD-0297,CUST-1178,Aarav Mehta,aarav.mehta785@gmail.com,2025-09-29,Data Analytics,Books,6,₹599,"₹3,594",jaipur ,credit card,Shipped
+ORD-0618,CUST-1096,Karan Sharma,karan.sharma261@gmail.com,31-08-2025,Water Bottle,Home,2,999,1998,delhi,upi,shipped
+ORD-0598,CUST-1122,Rahul Mehta,rahul.mehta691@gmail.com,19-02-2025,Body Lotion,Beauty,6,1599,"INR 9,594",Pune,COD,pending
+ORD-0815,CUST-1072,Karan Mehta,karan.mehta76@gmail.com,12-06-2025,USB Cable,Electronics,4,399,₹ 1596,Mumbai,COD,delivered
+ORD-0798,CUST-1063,Rohan Yadav,rohan.yadav867@gmail.com,2025-11-01,Wireless Mouse,Electronics,6,"₹1,599","INR 9,594",Bangalore,Credit Card,delivered
+ORD-0424,CUST-1060,Nitin Sharma,nitin.sharma78@gmail.com,18-07-2025,Excel Guide,Books,1,999,₹999,Delhi,Debit Card,pending
+ORD-0757,CUST-1213,Neha Sharma,neha.sharma442@gmail.com,"Sep 11, 2025",Headphones,Electronics,2,"INR 1,299","2,598",New Delhi,debit card,Shipped
+ORD-0313,CUST-1128,Rohan Yadav,rohan.yadav464@gmail.com,"Oct 21, 2025",SQL Handbook,Books,4,₹399,₹ 1596,Pune,debit card,delivered
+ORD-0185,CUST-1067,Sneha Mehta,sneha.mehta804@gmail.com,"May 25, 2025",Data Analytics,Books,4,₹ 399,1596,jaipur ,debit card,shipped
+ORD-0333,CUST-1166,Rohan Gupta,rohan.gupta696@gmail.com,,AI Fundamentals,Books,1,₹ 1999,"₹1,999",Mumbai,cod,pending
+ORD-0089,CUST-1176,Ananya Sharma,ananya.sharma716@gmail.com,2025-07-09,USB Cable,Electronics,5,₹ 799,₹ 3995,Mumbai,debit card,delivered
+ORD-0064,CUST-1242,Ananya Mishra,ananya.mishra776@gmail.com,19-10-2025,Water Bottle,Home,1,₹ 299,₹299,Pune,Debit Card,pending
+ORD-0830,CUST-1215,Rahul Jain,rahul.jain246@gmail.com,2025-02-20,Wall Clock,Home,3,1299,"₹3,897",jaipur ,Cash on Delivery,shipped
+ORD-0803,CUST-1073,Priya Kumar,priya.kumar121@gmail.com,23/02/2025,Headphones,Electronics,6,799,4794,Bangalore,UPI,Shipped
+ORD-0216,CUST-1100,Rahul Mehta,rahul.mehta130@gmail.com,03-05-2025,AI Fundamentals,Books,1,"₹1,999","INR 1,999",Bangalore,Credit Card,cancelled
+ORD-0604,CUST-1102,Rahul Singh,rahul.singh774@gmail.com,06-11-2025,Sneakers,Fashion,2,₹399,₹ 798,pune,UPI,Delivered
+ORD-0548,CUST-1127,Sneha Gupta,sneha.gupta427@gmail.com,27-02-2025,Hoodie,Fashion,4,₹399,₹ 1596,New Delhi,cod,DELIVERED
+ORD-0291,CUST-1047,Priya Mehta,priya.mehta753@gmail.com,"Apr 24, 2025",Power Bank,Electronics,6,"1,599",9594,mumbai ,Credit Card,cancelled
+ORD-0787,CUST-1123,Simran Singh,simran.singh217@gmail.com,"Mar 13, 2025",Power Bank,Electronics,6,599,₹ 3594,delhi,Debit Card,Pending
+ORD-0887,CUST-1018,Aditya Patel,aditya.patel804@gmail.com,04-12-2025,Perfume,Beauty,6,INR 299,"1,794",Jaipur,debit card,pending
+ORD-0963,CUST-1181,Vikas Mehta,vikas.mehta319@gmail.com,14/09/2025,SQL Handbook,Books,4,"INR 1,999",7996,Bengaluru,Cash on Delivery,pending
+ORD-0942,CUST-1034,Ananya Yadav,ananya.yadav429@gmail.com,2025-04-24,Bedsheet,Home,6,199,"INR 1,194",jaipur ,upi,Pending
+ORD-0741,CUST-1143,Sneha Yadav,sneha.yadav75@gmail.com,23/09/2025,USB Cable,Electronics,5,"INR 1,299","₹6,495",delhi,Credit Card,Delivered
+ORD-0681,CUST-1058,Sneha Sharma,sneha.sharma393@gmail.com,2025-03-13,Shampoo,Beauty,4,999,"₹3,996",Pune,debit card,Pending
+ORD-0694,CUST-1174,Aditya Singh,aditya.singh191@gmail.com,31/05/2025,Jeans,Fashion,2,199,₹ 398,delhi,upi,Delivered
+ORD-0989,CUST-1206,Karan Patel,karan.patel864@gmail.com,"Feb 24, 2025",Hoodie,Fashion,2,₹299,598,jaipur ,upi,pending
+ORD-0310,CUST-1133,Aarav Singh,aarav.singh277@gmail.com,02-12-2025,Face Wash,Beauty,4,₹999,3996,Lucknow,credit card,Pending
+ORD-0087,CUST-1078,Nitin Yadav,nitin.yadav941@gmail.com,25-12-2025,Data Analytics,Books,6,₹ 249,"₹1,494",delhi,UPI,Delivered
+ORD-0849,CUST-1067,Neha Jain,neha.jain241@gmail.com,29/03/2025,Wireless Mouse,Electronics,2,INR 249,498,pune,UPI,Delivered
+ORD-0785,CUST-1097,Rohan Jain,rohan.jain261@gmail.com,"Aug 21, 2025",Data Analytics,Books,1,₹299,299,delhi,UPI,delivered
+ORD-0311,CUST-1165,Nitin Gupta,nitin.gupta503@gmail.com,"Jun 27, 2025",AI Fundamentals,Books,1,INR 799,799,Jaipur,UPI,Delivered
+ORD-0536,CUST-1145,Simran Gupta,simran.gupta39@gmail.com,03-03-2025,Hoodie,Fashion,2,₹ 999,"₹1,998",Jaipur,debit card,Cancelled
+ORD-0137,CUST-1133,Sneha Mehta,sneha.mehta417@gmail.com,10-06-2025,Face Wash,Beauty,5,INR 299,"₹1,495",Delhi,Credit Card,Cancelled
+ORD-0871,CUST-1057,Nitin Patel,nitin.patel168@gmail.com,14-02-2025,Bedsheet,Home,3,"INR 1,299","INR 3,897",Bengaluru,upi,shipped
+ORD-0466,CUST-1088,Aditya Jain,aditya.jain254@gmail.com,2025-11-14,Cap,Fashion,4,799,"INR 3,196",Pune,Cash on Delivery,delivered
+ORD-0896,CUST-1210,Aarav Mehta,aarav.mehta441@gmail.com,2025-05-14,Body Lotion,Beauty,6,199,"₹1,194",delhi,credit card,cancelled
+ORD-0262,CUST-1217,Neha Verma,neha.verma950@gmail.com,15/06/2025,Cap,Fashion,2,₹299,INR 598,Jaipur,Credit Card,delivered
+ORD-0487,CUST-1023,Aarav Sharma,aarav.sharma644@gmail.com,17/02/2025,Bedsheet,Home,3,399,"INR 1,197",Jaipur,upi,delivered
+ORD-0169,CUST-1095,Rohan Yadav,rohan.yadav324@gmail.com,"Mar 23, 2025",Jeans,Fashion,1,1999,"1,999",Lucknow,upi,shipped
+ORD-0828,CUST-1246,Aarav Sharma,aarav.sharma36@gmail.com,20-03-2025,Shampoo,Beauty,1,799,799,Bangalore,debit card,DELIVERED
+ORD-0448,CUST-1182,Aditya Mishra,aditya.mishra372@gmail.com,"Mar 08, 2025",Excel Guide,Books,3,1299,₹ 3897,Pune,Credit Card,Shipped
+ORD-0140,CUST-1080,Priya Yadav,priya.yadav36@gmail.com,04-07-2025,Water Bottle,Home,2,₹ 299,598,delhi,upi,delivered
+ORD-0683,CUST-1085,Karan Gupta,karan.gupta981@gmail.com,20/07/2025,AI Fundamentals,Books,5,799,₹ 3995,Mumbai,COD,delivered
+ORD-0771,CUST-1198,Ananya Yadav,ananya.yadav382@gmail.com,21-06-2025,Python Basics,Books,4,₹299,"₹1,196",jaipur ,UPI,cancelled
+ORD-0853,CUST-1182,Priya Yadav,priya.yadav117@gmail.com,2025-06-24,Keyboard,Electronics,4,799,3196,pune,debit card,shipped
+ORD-0441,CUST-1160,Karan Kumar,karan.kumar326@gmail.com,17-08-2025,Table Lamp,Home,6,INR 199,"₹1,194",delhi,credit card,Delivered
+ORD-0999,CUST-1002,Rahul Kumar,rahul.kumar523@gmail.com,10/12/2025,Body Lotion,Beauty,6,2499,₹ 14994,delhi,Debit Card,shipped
+ORD-0531,CUST-1089,Nitin Mehta,nitin.mehta417@gmail.com,"Mar 17, 2025",AI Fundamentals,Books,5,199,₹ 995,Bangalore,UPI,shipped
+ORD-0056,CUST-1186,Simran Gupta,simran.gupta333@gmail.com,2025-03-03,Sneakers,Fashion,2,INR 249,INR 498,Lucknow,COD,shipped
+ORD-0121,CUST-1210,Neha Mishra,neha.mishra461@gmail.com,25-08-2025, bedsheet ,Home,4,₹ 399,1596,pune,Cash on Delivery,DELIVERED
+ORD-0528,CUST-1231,Ananya Yadav,ananya.yadav927@gmail.com,2025-05-29,Excel Guide,Books,6,2499,₹ 14994,Bangalore,upi,Cancelled
+ORD-0026,CUST-1176,Rohan Patel,rohan.patel169@gmail.com,20-05-2025,Keyboard,Electronics,3,249,INR 747,Lucknow,debit card,Shipped
+ORD-0073,CUST-1117,Vikas Verma,vikas.verma467@gmail.com,"Oct 03, 2025",Cap,Fashion,5,,"9,995",pune,cod,pending
+ORD-0045,CUST-1165,Vikas Verma,vikas.verma647@gmail.com,01/10/2025,Hoodie,Fashion,6,₹ 299,1794,Jaipur,UPI,delivered
+ORD-0250,CUST-1079,Rahul Yadav,rahul.yadav487@gmail.com,"Jun 10, 2025",Python Basics,Books,2,₹249,498,Bangalore,credit card,Cancelled
+ORD-0395,CUST-1198,Rahul Gupta,rahul.gupta927@gmail.com,"May 09, 2025",Face Wash,Beauty,5,₹999,"₹4,995",Lucknow,credit card,pending
+ORD-0933,CUST-1071,Nitin Singh,nitin.singh372@gmail.com,2025-02-10,Keyboard,Electronics,3,"₹2,499","7,497",delhi,cod,Pending
+ORD-0997,CUST-1185,Simran Singh,simran.singh355@gmail.com,23-11-2025,Python Basics,Books,4,₹ 1299,₹ 5196,Delhi,Credit Card,shipped
+ORD-0958,CUST-1160,Ananya Gupta,ananya.gupta214@gmail.com,22/12/2025,Wall Clock,Home,1,199,₹ 199,Bangalore,upi,Delivered
+ORD-0199,CUST-1143,Ananya Yadav,ananya.yadav378@gmail.com,19/05/2025,T-Shirt,Fashion,1,INR 199,₹199,delhi,Cash on Delivery,Cancelled
+ORD-0540,CUST-1129,Ananya Mehta,ananya.mehta807@gmail.com,"Sep 06, 2025",Water Bottle,Home,2,"1,299","INR 2,598",New Delhi,credit card,DELIVERED
+ORD-0356,CUST-1108,Sneha Singh,sneha.singh105@gmail.com,2025-09-04,AI Fundamentals,Books,1,1299,1299,Delhi,Cash on Delivery,cancelled
+ORD-0324,CUST-1178,Rohan Mishra,rohan.mishra898@gmail.com,2025-12-12,Python Basics,Books,3,999,₹ 2997,Mumbai,cod,shipped
+ORD-0946,CUST-1185,Rohan Jain,rohan.jain681@gmail.com,2025-07-25,Water Bottle,Home,3,"2,499","₹7,497",New Delhi,upi,cancelled
+ORD-0768,CUST-1180,Karan Sharma,karan.sharma641@gmail.com,13/04/2025,Headphones,Electronics,2,₹299,₹ 598,Bengaluru,cod,shipped
+ORD-0236,CUST-1068,Karan Mehta,karan.mehta569@gmail.com,2025-12-16,Jeans,Fashion,4,₹ 1599,"₹6,396",Delhi,upi,Delivered
+ORD-0977,CUST-1120,Neha Kumar,neha.kumar222@gmail.com,25-06-2025,Data Analytics,Books,6,₹799,4794,Mumbai,Debit Card,Shipped
+ORD-0945,CUST-1059,Sneha Singh,sneha.singh523@gmail.com,"Jul 23, 2025",Water Bottle,Home,1,₹199,INR 199,mumbai ,Debit Card,Delivered
+ORD-0939,CUST-1199,Karan Singh,karan.singh190@gmail.com,26-08-2025,Body Lotion,Beauty,2,"₹1,999","3,998",Lucknow,Cash on Delivery,DELIVERED
+ORD-0903,CUST-1200,Sneha Gupta,sneha.gupta516@gmail.com,28-12-2025,Wireless Mouse,Electronics,1,INR 499,₹ 499,Lucknow,Debit Card,Pending
+ORD-0300,CUST-1160,Aditya Patel,aditya.patel183@gmail.com,05-03-2025,Table Lamp,Home,6,₹199,₹ 1194,jaipur ,Debit Card,cancelled
+ORD-0061,CUST-1062,Aditya Sharma,aditya.sharma634@gmail.com,2025-02-20,SQL Handbook,Books,3,"INR 1,599","4,797",jaipur ,upi,DELIVERED
+ORD-0328,CUST-1201,Neha Mishra,neha.mishra62@gmail.com,17-11-2025,Shampoo,Beauty,1,₹ 299,299,pune,debit card,delivered
+ORD-0527,CUST-1250,Aarav Jain,aarav.jain963@gmail.com,2025-09-13,Storage Box,Home,3,₹ 249,747,delhi,UPI,cancelled
+ORD-0599,CUST-1088,Rohan Jain,rohan.jain840@gmail.com,2025-07-08,Cap,Fashion,5,₹ 799,₹ 3995,New Delhi,UPI,cancelled
+ORD-0814,CUST-1188,Vikas Singh,vikas.singh367@gmail.com,"Aug 27, 2025",Face Wash,Beauty,2,799,₹ 1598,New Delhi,upi,DELIVERED
+ORD-0936,CUST-1157,Nitin Singh,nitin.singh983@gmail.com,2025-09-22,Body Lotion,Beauty,2,₹399,₹ 798,New Delhi,COD,cancelled
+ORD-0981,CUST-1042,Ananya Sharma,ananya.sharma961@gmail.com,30/04/2025,Hoodie,Fashion,6,₹ 799,₹ 4794,mumbai ,Cash on Delivery,Delivered
+ORD-0596,CUST-1066,Nitin Kumar,nitin.kumar340@gmail.com,29/01/2025,Data Analytics,Books,2,199,398,Bengaluru,upi,pending
+ORD-0542,CUST-1033,Simran Mehta,simran.mehta152@gmail.com,15-08-2025,USB Cable,Electronics,3,INR 499,"1,497",Delhi,upi,Shipped
+ORD-0781,CUST-1138,Neha Sharma,neha.sharma650@gmail.com,06-01-2025,Wall Clock,Home,5,INR 499,"2,495",delhi,Debit Card,Delivered
+ORD-0306,CUST-1218,Rahul Sharma,rahul.sharma882@gmail.com,29-05-2025,Hoodie,Fashion,1,249,₹ 249,Lucknow,upi,delivered
+ORD-0319,CUST-1226,Vikas Patel,vikas.patel809 @gmail.com,2025-04-01,Power Bank,Electronics,4,"INR 1,599","₹6,396",Bengaluru,debit card,cancelled
+ORD-0482,CUST-1165,Karan Jain,karan.jain253@gmail.com,"Dec 05, 2025",Storage Box,Home,2,INR 999,"INR 1,998",Jaipur,debit card,Delivered
+ORD-0494,CUST-1142,Nitin Singh,nitin.singh384@gmail.com,01-10-2025,Hoodie,Fashion,1,"₹1,999",₹ 1999,mumbai ,credit card,DELIVERED
+ORD-0266,CUST-1178,Neha Verma,neha.verma661@gmail.com,15-02-2025,T-Shirt,Fashion,2,₹ 599,"₹1,198",mumbai ,credit card,Shipped
+ORD-0111,CUST-1162,Aditya Mishra,aditya.mishra340@gmail.com,18-11-2025,AI Fundamentals,Books,4,"INR 1,999",₹ 7996,New Delhi,COD,Cancelled
+ORD-0469,CUST-1051,Aditya Sharma,aditya.sharma785@gmail.com,2025-03-17,Wireless Mouse,Electronics,2,₹ 299,598,mumbai ,Cash on Delivery,Cancelled
+ORD-0709,CUST-1066,Aarav Jain,aarav.jain447@gmail.com,12-02-2025,SQL Handbook,Books,2,999,1998,delhi,cod,DELIVERED
+ORD-0588,CUST-1067,Sneha Mishra,sneha.mishra400@gmail.com,"Jun 04, 2025",Python Basics,Books,1,499,INR 499,pune,UPI,DELIVERED
+ORD-0257,CUST-1089,Priya Patel,priya.patel265@gmail.com,19/11/2025,Hoodie,Fashion,2,₹ 799,"1,598",Pune,cod,Cancelled
+ORD-0261,CUST-1001,Vikas Sharma,vikas.sharma102@gmail.com,2025-01-29,Perfume,Beauty,3,299,INR 897,Delhi,cod,Cancelled
+ORD-0544,CUST-1201,Aditya Sharma,aditya.sharma490@gmail.com,02-03-2025,Wireless Mouse,Electronics,6,"₹1,299","₹7,794",mumbai ,UPI,delivered
+ORD-0406,CUST-1093,Priya Mishra,priya.mishra745@gmail.com,06/02/2025,Excel Guide,Books,1,INR 599,₹ 599,New Delhi,COD,Delivered
+ORD-0429,CUST-1080,Sneha Verma,sneha.verma221@gmail.com,2025-12-01,Cap,Fashion,3,999,2997,jaipur ,credit card,DELIVERED
+ORD-0676,CUST-1092,Vikas Mehta,vikas.mehta289@gmail.com,15/07/2025,Lip Balm,Beauty,4,INR 599,₹ 2396,Mumbai,Debit Card,delivered
+ORD-0502,CUST-1037,Aarav Sharma,aarav.sharma193@gmail.com,15-02-2025,Water Bottle,Home,4,₹ 249,₹ 996,Lucknow,Credit Card,Shipped
+ORD-0433,CUST-1009,Nitin Mehta,nitin.mehta198@gmail.com,"Jul 18, 2025",AI Fundamentals,Books,4,₹ 2499,"INR 9,996",delhi,credit card,Shipped
+ORD-0731,CUST-1038,Karan Sharma,karan.sharma561@gmail.com,24-08-2025,AI Fundamentals,Books,2,INR 249,498,Mumbai,COD,Cancelled
+ORD-0138,CUST-1116,Ananya Yadav,ananya.yadav229@gmail.com,10-11-2025,Perfume,Beauty,1,₹ 499,INR 499,New Delhi,Credit Card,delivered
+ORD-0358,CUST-1031,Ananya Mishra,ananya.mishra907@gmail.com,"Oct 06, 2025",Hoodie,Fashion,2,249,INR 498,Delhi,UPI,cancelled
+ORD-0928,CUST-1245,Ananya Yadav,ananya.yadav359@gmail.com,"Jan 25, 2025",Excel Guide,Books,1,399,399,Bengaluru,debit card,DELIVERED
+ORD-0222,CUST-1207,Priya Mishra,priya.mishra715@gmail.com,"Jun 29, 2025",USB Cable,Electronics,1,INR 399,399,delhi,credit card,Shipped
+ORD-0753,CUST-1217,Ananya Kumar,ananya.kumar985@gmail.com,2025-08-08,Body Lotion,Beauty,4,"1,299","₹5,196",mumbai ,Cash on Delivery,Pending
+ORD-0594,CUST-1040,Rohan Mehta,rohan.mehta36@gmail.com,26/05/2025,Keyboard,Electronics,4,₹ 1999,"7,996",Jaipur,upi,Pending
+ORD-0804,CUST-1069,Priya Mishra,priya.mishra21@gmail.com,2025-06-08,Storage Box,Home,1,249,INR 249,jaipur ,UPI,Shipped
+ORD-0364,CUST-1050,Aarav Verma,aarav.verma665@gmail.com,"Sep 11, 2025",Excel Guide,Books,6,"₹1,599","INR 9,594",jaipur ,cod,shipped
+ORD-0523,CUST-1114,Sneha Mehta,sneha.mehta431@gmail.com,24-10-2025,Water Bottle,Home,1,399,₹ 399,Jaipur,cod,cancelled
+ORD-0209,CUST-1039,Sneha Mishra,sneha.mishra714@gmail.com,2025-10-22,Storage Box,Home,6,₹ 1299,"7,794",Bengaluru,COD,cancelled
+ORD-0778,CUST-1031,Aarav Patel,aarav.patel476@gmail.com,15-09-2025,Data Analytics,Books,5,"2,499","INR 12,495",mumbai ,Debit Card,cancelled
+ORD-0335,CUST-1194,Vikas Jain,vikas.jain453@gmail.com,11/06/2025,Bedsheet,Home,4,₹ 799,"₹3,196",pune,UPI,delivered
+ORD-0211,CUST-1006,Vikas Singh,vikas.singh458@gmail.com,"Dec 23, 2025",Storage Box,Home,4,599,"₹2,396",mumbai ,UPI,delivered
+ORD-0351,CUST-1166,Nitin Gupta,nitin.gupta434@gmail.com,19/06/2025,Cap,Fashion,6,₹ 249,₹ 1494,Pune,credit card,DELIVERED
+ORD-0079,CUST-1231,Vikas Mishra,vikas.mishra156@gmail.com,"Apr 29, 2025",Perfume,Beauty,6,399,₹ 2394,mumbai ,UPI,Cancelled
+ORD-0030,CUST-1224,Aarav Verma,aarav.verma764@gmail.com,"Jun 20, 2025",Table Lamp,Home,2,INR 799,"1,598",delhi,upi,pending
+ORD-0281,CUST-1069,Ananya Kumar,ananya.kumar873@gmail.com,09/09/2025,T-Shirt,Fashion,3,INR 499,"INR 1,497",mumbai ,COD,Pending
+ORD-0508,CUST-1228,Priya Jain,priya.jain900@gmail.com,"Apr 13, 2025",Headphones,Electronics,2,INR 249,₹498,Pune,COD,Delivered
+ORD-0639,CUST-1244,Rohan Patel,rohan.patel182@gmail.com,2025-05-27,Body Lotion,Beauty,1,INR 249,249,New Delhi,Credit Card,shipped
+ORD-0802,CUST-1043,Rahul Patel,rahul.patel629@gmail.com,"Feb 09, 2025",Python Basics,Books,2,₹ 799,"1,598",jaipur ,Cash on Delivery,pending
+ORD-0290,CUST-1189,Neha Verma,neha.verma748@gmail.com,"Jan 14, 2025",Power Bank,electronics,4,"1,999","7,996",Bengaluru,Cash on Delivery,pending
+ORD-0166,CUST-1146,Rohan Mehta,rohan.mehta176@gmail.com,23-08-2025,SQL Handbook,Books,3,INR 399,"₹1,197",Lucknow,debit card,shipped
+ORD-0856,CUST-1055,Vikas Patel,vikas.patel473@gmail.com,30-06-2025,Shampoo,Beauty,3,₹199,597,New Delhi,debit card,pending
+ORD-0498,CUST-1004,Simran Verma,simran.verma510@gmail.com,01/12/2025,Data Analytics,Books,1,₹ 199,199,Delhi,credit card,DELIVERED
+ORD-0463,CUST-1221,Simran Yadav,simran.yadav109@gmail.com,22-08-2025,Perfume,Beauty,2,₹ 249,₹ 498,Mumbai,credit card,DELIVERED
+ORD-0066,CUST-1163,Ananya Mishra,ananya.mishra51@gmail.com,"Mar 31, 2025",AI Fundamentals,Books,-1,1999,₹ 1999,mumbai ,Credit Card,pending
+ORD-0142,CUST-1083,Karan Patel,karan.patel942@gmail.com,29/01/2025,AI Fundamentals,Books,2,299,INR 598,mumbai ,Credit Card,DELIVERED
+ORD-0276,CUST-1109,Rahul Singh,rahul.singh982@gmail.com,2025-08-18,AI Fundamentals,Books,6,"INR 1,599","INR 9,594",Mumbai,Credit Card,Delivered
+ORD-0831,CUST-1147,Rohan Singh,rohan.singh36@gmail.com,12/08/2025,Data Analytics,Books,3,399,"INR 1,197",Delhi,cod,delivered
+ORD-0582,CUST-1013,Aarav Sharma,aarav.sharma955@gmail.com,2025-10-13,Lip Balm,Beauty,5,₹399,₹ 1995,Mumbai,Debit Card,DELIVERED
+ORD-0465,CUST-1203,Neha Mishra,neha.mishra598@gmail.com,07/03/2025,Lip Balm,Beauty,2,₹ 499,₹998,Bangalore,cod,delivered
+ORD-0668,CUST-1006,Rahul Gupta,rahul.gupta916@gmail.com,2025-05-15,Keyboard,Electronics,2,499,998,Mumbai,Credit Card,Shipped
+ORD-0320,CUST-1077,Priya Kumar,priya.kumar417@gmail.com,25-06-2025,Lip Balm,Beauty,5,₹ 2499,"INR 12,495",delhi,Cash on Delivery,cancelled
+ORD-0843,CUST-1155,Simran Mehta,simran.mehta228@gmail.com,27-08-2025,Headphones,Electronics,6,INR 199,1194,New Delhi,Cash on Delivery,shipped
+ORD-0307,CUST-1209,Nitin Verma,nitin.verma346@gmail.com,"Jul 03, 2025",Wireless Mouse,Electronics,2,1999,"3,998",Lucknow,upi,Pending
+ORD-0308,CUST-1242,Karan Yadav,karan.yadav288@gmail.com,"Jul 17, 2025",Jeans,Fashion,1,₹ 799,INR 799,New Delhi,Credit Card,Delivered
+ORD-0824,CUST-1163,Vikas Jain,vikas.jain392@gmail.com,2025-04-01,Excel Guide,Books,1,299,₹ 299,Bengaluru,Debit Card,pending
+ORD-0334,CUST-1148,Simran Mehta,simran.mehta48@gmail.com,14/02/2025,Keyboard,Electronics,1,₹999,INR 999,mumbai ,cod,delivered
+ORD-0050,CUST-1218,Aarav Mehta,aarav.mehta555@gmail.com,08-08-2025,Cap,Fashion,1,"₹1,599",1599,jaipur ,debit card,Delivered
+ORD-0738,CUST-1162,Priya Jain,priya.jain510@gmail.com,2025-06-04,Shampoo,Beauty,1,₹ 249,₹249,Pune,Cash on Delivery,shipped
+ORD-0003,CUST-1155,Rahul Gupta,rahul.gupta990@gmail.com,22/06/2025,Wall Clock,Home,3,₹499,₹ 1497,New Delhi,debit card,Pending
+ORD-0546,CUST-1247,Priya Patel,priya.patel593@gmail.com,04/02/2025,Storage Box,Home,6,1599,"₹9,594",pune,credit card,Shipped
+ORD-0353,CUST-1044,Aditya Mishra,aditya.mishra662@gmail.com,10-01-2025,Jeans,Fashion,5,₹799,"INR 3,995",Pune,COD,Cancelled
+ORD-0908,CUST-1142,Ananya Mishra,ananya.mishra231@gmail.com,15-01-2025,T-Shirt,Fashion,5,599,₹ 2995,Bengaluru,UPI,delivered
+ORD-0590,CUST-1189,Karan Kumar,karan.kumar934@gmail.com,15-05-2025,Body Lotion,Beauty,6,599,"3,594",Bengaluru,Credit Card,Pending
+ORD-0347,CUST-1121,Priya Singh,priya.singh280@gmail.com,2025-07-09,T-Shirt,Fashion,2,₹999,"INR 1,998",pune,debit card,pending
+ORD-0998,CUST-1195,Aditya Kumar,aditya.kumar320@gmail.com,2025-11-12,USB Cable,Electronics,1,₹399,399,Jaipur,COD,Shipped
+ORD-0484,CUST-1245,Ananya Yadav,ananya.yadav401@gmail.com,14-12-2025,Storage Box,Home,4,199,₹796,New Delhi,cod,Pending
+ORD-0579,CUST-1001,Sneha Mehta,sneha.mehta474@gmail.com,22/12/2025,Hoodie,Fashion,5,"₹2,499","INR 12,495",jaipur ,COD,DELIVERED
+ord-0034,CUST-1130,Nitin Gupta,nitin.gupta382@gmail.com,09/08/2025,Face Wash,Beauty,5,"1,299",6495,Bangalore,upi,shipped
+ORD-0032,CUST-1010,Sneha Jain,sneha.jain705@gmail.com,02-10-2025,Headphones,Electronics,3,"₹1,999","₹5,997",mumbai ,Credit Card,shipped
+ORD-0232,CUST-1236,Aditya Sharma,aditya.sharma634@gmail.com,2025-11-29,Table Lamp,Home,1,₹ 1299,"1,299",Lucknow,credit card,DELIVERED
+ORD-0751,CUST-1176,Simran Patel,simran.patel574@gmail.com,"Nov 01, 2025",Hoodie,Fashion,2,₹ 599,1198,delhi,Debit Card,Delivered
+ORD-0193,CUST-1166,Karan Jain,karan.jain575@gmail.com,01/09/2025,Wireless Mouse,Electronics,1,₹799,INR 799,New Delhi,COD,pending
+ORD-0514,CUST-1123,Aarav Jain,aarav.jain982@gmail.com,2025-04-22,Shampoo,Beauty,1,"1,299","1,299",Mumbai,upi,Delivered
+ORD-0004,CUST-1181,Sneha Singh,sneha.singh954@gmail.com,13/07/2025,T-Shirt,Fashion,6,999,"5,994",jaipur ,debit card,Shipped
+ORD-0205,CUST-1113,Rohan Mishra,rohan.mishra214@gmail.com,2025-10-31,Body Lotion,Beauty,4,599,"₹2,396",Lucknow,COD,Shipped
+ORD-0434,CUST-1222,Priya Gupta,priya.gupta785@gmail.com,15/04/2025,Face Wash,Beauty,3,INR 799,₹ 2397,Jaipur,COD,Pending
+ORD-0577,CUST-1226,Karan Kumar,karan.kumar318@gmail.com,2025-02-16,Wall Clock,Home,4,199,INR 796,delhi,COD,Pending
+ORD-0982,CUST-1203,Simran Patel,simran.patel213@gmail.com,2025-10-18,Data Analytics,Books,3,"INR 1,599","4,797",Delhi,upi,shipped
+ORD-0110,CUST-1194,Ananya Gupta,ananya.gupta187@gmail.com,2025-11-05,Table Lamp,Home,1,₹299,INR 299,jaipur ,COD,Cancelled
+ORD-0600,CUST-1077,Simran Verma,simran.verma963@gmail.com,11/09/2025,Shampoo,Beauty,6,"1,999",₹ 11994,Bengaluru,upi,Cancelled
+ORD-0078,CUST-1157,Neha Jain,neha.jain159@gmail.com,"May 06, 2025",T-Shirt,Fashion,3,599,"INR 1,797",delhi,Credit Card,delivered
+ORD-0085,CUST-1032,Simran Jain,simran.jain876@gmail.com,13-10-2025,Keyboard,Electronics,2,"₹1,999",₹ 3998,Delhi,Debit Card,cancelled
+ORD-0524,CUST-1091,Ananya Verma,ananya.verma818@gmail.com,2025-05-14,Body Lotion,Beauty,5,₹ 299,"1,495",mumbai ,UPI,DELIVERED
+ORD-0083,CUST-1052,Aditya Mehta,aditya.mehta759@gmail.com,09/03/2025,Headphones,Electronics,4,199,796,Lucknow,Cash on Delivery,DELIVERED
+ORD-0255,CUST-1072,Vikas Sharma,vikas.sharma401@gmail.com,"Dec 16, 2025",SQL Handbook,Books,6,INR 799,"4,794",Mumbai,Credit Card,shipped
+ORD-0965,CUST-1187,Nitin Singh,nitin.singh581@gmail.com,11-08-2025,Lip Balm,Beauty,6,INR 499,"₹2,994",Bangalore,COD,Pending
+ORD-0409,CUST-1169,Vikas Jain,vikas.jain914@gmail.com,2025-02-23,Power Bank,Electronics,3,"INR 1,999",5997,Bengaluru,cod,Pending
+ORD-0653,CUST-1127,Nitin Sharma,nitin.sharma884@gmail.com,"Jun 15, 2025",SQL Handbook,Books,1,₹ 799,799,New Delhi,cod,Cancelled
+ORD-0877,CUST-1177,Aarav Kumar,aarav.kumar859@gmail.com,29/11/2025,SQL Handbook,Books,1,249,249,New Delhi,Debit Card,Cancelled
+ORD-0918,CUST-1246,Priya Jain,priya.jain860@gmail.com,26/10/2025,AI Fundamentals,Books,6,INR 599,₹ 3594,jaipur ,upi,delivered
+ORD-0437,CUST-1119,Ananya Yadav,ananya.yadav180@gmail.com,05-08-2025,Hoodie,Fashion,4,499,"₹1,996",Lucknow,cod,DELIVERED
+ORD-0006,CUST-1070,Simran Singh,simran.singh633@gmail.com,2025-11-22,Jeans,Fashion,6,499,"INR 2,994",delhi,COD,pending
+ORD-0405,CUST-1160,Rohan Yadav,rohan.yadav206@gmail.com,20/02/2025,Table Lamp,Home,1,399,₹ 399,jaipur ,COD,cancelled
+ORD-0468,CUST-1127,Rohan Yadav,rohan.yadav190@gmail.com,"Jun 07, 2025",SQL Handbook,Books,3,"₹1,299",3897,New Delhi,Cash on Delivery,Pending
+ORD-0098,CUST-1106,Simran Mehta,simran.mehta841@gmail.com,08/03/2025,Wireless Mouse,Electronics,4,249,996,pune,debit card,delivered
+ORD-0559,CUST-1215,Aditya Mehta,aditya.mehta794@gmail.com,26-05-2025,Hoodie,Fashion,5,₹799,"₹3,995",Jaipur,UPI,DELIVERED
+ORD-0360,CUST-1095,Aditya Kumar,aditya.kumar706@gmail.com,2025-07-23,SQL Handbook,Books,5,₹ 599,2995,pune,COD,DELIVERED
+ORD-0921,CUST-1202,Karan Mehta,karan.mehta91@gmail.com,30/06/2025,Keyboard,Electronics,4,"2,499",₹ 9996,Jaipur,credit card,Cancelled
+ORD-0267,CUST-1090,Simran Sharma,simran.sharma59@gmail.com,"Jul 17, 2025",Headphones,Electronics,3,₹ 249,INR 747,Bengaluru,COD,pending
+ORD-0737,CUST-1161,Neha Yadav,neha.yadav193@gmail.com,27/01/2025,Shampoo,Beauty,1,249,249,Jaipur,Cash on Delivery,DELIVERED
+ORD-0383,CUST-1106,Nitin Kumar,nitin.kumar737@gmail.com,"May 17, 2025",Jeans,Fashion,3,599,₹ 1797,Bangalore,cod,Cancelled
+ORD-0693,CUST-1121,Vikas Yadav,vikas.yadav482@gmail.com,04/02/2025,Bedsheet,Home,6,2499,"INR 14,994",Lucknow,COD,DELIVERED
+ORD-0412,CUST-1147,Aarav Kumar,aarav.kumar237@gmail.com,20-04-2025,Power Bank,Electronics,2,₹499,998,pune,cod,cancelled
+ORD-0885,CUST-1168,Priya Mehta,priya.mehta934@gmail.com,"Dec 28, 2025",Bedsheet,Home,5,1299,"₹6,495",delhi,Credit Card,Pending
+ORD-0119,CUST-1213,Sneha Sharma,sneha.sharma687@gmail.com,2025-06-22,Power Bank,Electronics,5,2499,₹ 12495,delhi,Credit Card,DELIVERED
+ORD-0431,CUST-1007,Karan Kumar,karan.kumar463@gmail.com,23-11-2025,Water Bottle,Home,3,INR 799,"INR 2,397",New Delhi,Credit Card,DELIVERED
+ORD-0251,CUST-1248,Rahul Kumar,rahul.kumar856@gmail.com,27/12/2025,Body Lotion,Beauty,1,INR 249,249,delhi,upi,Shipped
+ORD-0343,CUST-1188,Sneha Singh,sneha.singh189@gmail.com,27/11/2025,Body Lotion,Beauty,3,999,"INR 2,997",pune,credit card,shipped
+ORD-0010,CUST-1117,Aarav Singh,aarav.singh708@gmail.com,02-10-2025,Perfume,Beauty,3,"1,299","₹3,897",mumbai ,Cash on Delivery,DELIVERED
+ORD-0197,CUST-1048,Aarav Kumar,aarav.kumar812@gmail.com,"Aug 19, 2025",AI Fundamentals,Books,4,INR 599,"2,396",pune,Cash on Delivery,pending
+ORD-0755,CUST-1183,Vikas Yadav,vikas.yadav537@gmail.com,17/12/2025,Perfume,Beauty,6,₹ 299,"₹1,794",Jaipur,credit card,Delivered
+ORD-0082,CUST-1232,Aditya Mehta,aditya.mehta234@gmail.com,2025-11-22,SQL Handbook,Books,3,399,"1,197",jaipur ,Credit Card,delivered
+ORD-0911,CUST-1113,Aarav Singh,aarav.singh324@gmail.com,19-10-2025,Sneakers,Fashion,6,"1,599","INR 9,594",Pune,COD,Delivered
+ORD-0479,CUST-1074,Ananya Sharma,ananya.sharma654@gmail.com,2025-08-31,Excel Guide,Books,6,1599,"₹9,594",jaipur ,Debit Card,Delivered
+ORD-0623,CUST-1131,Aarav Patel,aarav.patel352@gmail.com,2025-07-19,Shampoo,Beauty,3,249,747,mumbai ,credit card,delivered
+ORD-0240,CUST-1198,Sneha Patel,sneha.patel811@gmail.com,2025-05-13,Keyboard,Electronics,4,599,"INR 2,396",Lucknow,Debit Card,delivered
+ORD-0293,CUST-1228,Ananya Mishra,ananya.mishra311@gmail.com,26/08/2025,Hoodie,Fashion,3,₹ 599,"₹1,797",jaipur ,upi,Cancelled
+ ORD-0142 ,CUST-1205,Simran Gupta,simran.gupta538@gmail.com,2025-03-31,T-Shirt,Fashion,6,299,1794,Bengaluru,COD,Shipped
+ORD-0721,CUST-1210,Ananya Yadav,ananya.yadav494@gmail.com,"Jun 22, 2025",USB Cable,Electronics,5,"1,299","6,495",jaipur ,debit card,Pending
+ORD-0362,CUST-1211,Karan Mehta,karan.mehta830@gmail.com,09/10/2025,Water Bottle,Home,2,"INR 1,299",₹ 2598,jaipur ,UPI,delivered
+ORD-0452,CUST-1077,Nitin Yadav,nitin.yadav923@gmail.com,02-10-2025,Keyboard,Electronics,4,₹ 299,₹ 1196,Lucknow,UPI,cancelled
+ORD-0228,CUST-1168,Vikas Yadav,vikas.yadav10@gmail.com,2025-08-08,Face Wash,Beauty,1,INR 299,299,delhi,Debit Card,delivered
+ORD-0860,CUST-1188,Simran Kumar,simran.kumar517@gmail.com,2025-04-16,Face Wash,Beauty,2,"INR 2,499","4,998",jaipur ,Debit Card,shipped
+ORD-0363,CUST-1158,Rohan Singh,rohan.singh279@gmail.com,24-04-2025,Wall Clock,Home,5,₹799,3995,Delhi,Cash on Delivery,pending
+ORD-0800,CUST-1183,Aarav Sharma,aarav.sharma628@gmail.com,2025-03-30,Headphones,Electronics,1,₹299,₹ 299,Bengaluru,COD,cancelled
+ORD-0657,CUST-1250,Priya Singh,priya.singh804@gmail.com,"Nov 04, 2025",T-Shirt,Fashion,3,"₹1,299",₹ 3897,Jaipur,upi,delivered
+ORD-0550,CUST-1102,Priya Singh,priya.singh926@gmail.com,01-09-2025,SQL Handbook,Books,3,INR 799,"₹2,397",jaipur ,COD,delivered
+ORD-0644,CUST-1154,Aarav Yadav,aarav.yadav994@gmail.com,14-11-2025,Perfume,Beauty,4,INR 199,₹796,Delhi,COD,shipped
+ORD-0581,CUST-1047,Rahul Kumar,rahul.kumar187@gmail.com,18-12-2025,Hoodie,Fashion,4,"2,499","INR 9,996",New Delhi,Cash on Delivery,Pending
+ORD-0926,CUST-1186,Vikas Jain,vikas.jain655@gmail.com,"Aug 19, 2025",Wireless Mouse,Electronics,6,599,₹ 3594,Lucknow,Credit Card,DELIVERED
+ORD-0371,CUST-1189,Neha Gupta,neha.gupta925@gmail.com,21-10-2025,Data Analytics,Books,4,INR 599,"INR 2,396",Pune,credit card,Shipped
+ORD-0008,CUST-1057,Rahul Kumar,rahul.kumar152@gmail.com,07-05-2025,Lip Balm,Beauty,6,999,₹ 5994,Jaipur,Cash on Delivery,Pending
+ORD-0156,CUST-1005,Aarav Mishra,aarav.mishra501@gmail.com,"Mar 29, 2025",AI Fundamentals,Books,2,"INR 2,499","INR 4,998",Delhi,upi,Shipped
+ORD-0543,CUST-1051,Priya Verma,priya.verma90@gmail.com,06/08/2025,Table Lamp,Home,3,₹299,₹897,Pune,Cash on Delivery,Delivered
+ORD-0443,CUST-1038,Aarav Gupta,aarav.gupta913@gmail.com,08-10-2025,Face Wash,Beauty,5,1599,7995,Mumbai,UPI,DELIVERED
+ORD-0820,,Nitin Mishra,nitin.mishra641@gmail.com,16-03-2025,Data Analytics,Books,1,"2,499","₹2,499",delhi,COD,DELIVERED
+ORD-0399,CUST-1203,Rohan Mishra,rohan.mishra356@gmail.com,17/11/2025,Keyboard,Electronics,2,₹999,"1,998",jaipur ,Credit Card,cancelled
+ORD-0782,CUST-1084,Simran Jain,simran.jain978@gmail.com,01-12-2025,Python Basics,Books,6,2499,14994,Mumbai,COD,Shipped
+ORD-0568,CUST-1217,Simran Sharma,simran.sharma544@gmail.com,13-04-2025,AI Fundamentals,Books,4,₹ 1599,"INR 6,396",Mumbai,Credit Card,shipped
+ORD-0591,CUST-1067,Nitin Yadav,nitin.yadav64@gmail.com,2025-04-07,Shampoo,Beauty,5,"₹1,999","INR 9,995",delhi,UPI,Cancelled
+ORD-0715,CUST-1188,Karan Verma,karan.verma859@gmail.com,07-08-2025,Python Basics,Books,5,399,1995,pune,Cash on Delivery,shipped
+ORD-0938,CUST-1108,Vikas Jain,vikas.jain622@gmail.com,"Jul 02, 2025",Bedsheet,Home,6,999,"₹5,994",Mumbai,upi,shipped
+ORD-0569,CUST-1062,Nitin Gupta,nitin.gupta876@gmail.com,31-07-2025,Lip Balm,Beauty,3,249,INR 747,mumbai ,credit card,pending
+ORD-0866,CUST-1236,Neha Yadav,neha.yadav41@gmail.com,"May 06, 2025",Shampoo,Beauty,6,299,"INR 1,794",Lucknow,upi,Shipped
+ORD-0532,CUST-1036,Rohan Gupta,rohan.gupta755@gmail.com,"Aug 16, 2025",Sneakers,Fashion,4,₹ 1299,"5,196",delhi,Cash on Delivery,pending
+ORD-0585,CUST-1233,Priya Jain,priya.jain194@gmail.com,2025-07-29,Bedsheet,Home,6,"₹1,999","11,994",mumbai ,credit card,Cancelled
+ORD-0711,CUST-1165,Simran Mehta,simran.mehta513@gmail.com,"Jul 27, 2025",Water Bottle,Home,-1,₹ 1299,"1,299",Bengaluru,COD,shipped
+ORD-0451,CUST-1205,Aditya Mishra,aditya.mishra993@gmail.com,2025-01-15,Sneakers,Fashion,4,"INR 2,499","9,996",Bangalore,COD,Cancelled
+ORD-0779,CUST-1211,Priya Kumar,priya.kumar50@gmail.com,2025-11-24,Table Lamp,Home,1,"1,299","INR 1,299",mumbai ,UPI,Shipped
+ORD-0229,CUST-1001,Nitin Verma,nitin.verma63@gmail.com,22-07-2025,Sneakers,Fashion,1,INR 599,₹ 599,jaipur ,upi,delivered
+ORD-0537,CUST-1082,Vikas Singh,vikas.singh392@gmail.com,20/09/2025,Body Lotion,Beauty,6,"1,999","INR 11,994",Jaipur,UPI,DELIVERED
+ORD-0732,CUST-1127,Nitin Sharma,nitin.sharma623@gmail.com,13-06-2025,Excel Guide,Books,2,2499,"₹4,998",mumbai ,COD,Shipped
+ORD-0213,CUST-1181,Nitin Jain,nitin.jain415@gmail.com,2025-01-15,Shampoo,Beauty,2,₹ 1999,3998,Bengaluru,Cash on Delivery,Delivered
+ORD-0080,CUST-1219,Vikas Mehta,vikas.mehta611@gmail.com,"Jun 03, 2025",Cap,Fashion,2,249,₹ 498,mumbai ,credit card,pending
+ORD-0149,CUST-1150,Vikas Kumar,vikas.kumar519@gmail.com,12/01/2025,Wall Clock,Home,5,₹ 999,4995,Pune,credit card,Shipped
+ORD-0303,CUST-1250,Rohan Kumar,rohan.kumar126@gmail.com,"Feb 24, 2025",Power Bank,Electronics,6,"INR 1,599",9594,Mumbai,Debit Card,cancelled
+ORD-0663,CUST-1061,Ananya Mishra,ananya.mishra361@gmail.com,30-05-2025,Data Analytics,Books,2,₹999,1998,Jaipur,Credit Card,Delivered
+ORD-0329,CUST-1090,Sneha Singh,sneha.singh815@gmail.com,2025-09-16,Cap,Fashion,2,₹ 299,598,pune,Cash on Delivery,delivered
+ORD-0927,CUST-1185,Aarav Mishra,aarav.mishra617@gmail.com,"Jul 09, 2025",AI Fundamentals,Books,1,₹ 299,299,Pune,Credit Card,cancelled
+ORD-0345,CUST-1102,Neha Jain,neha.jain238@gmail.com,29-10-2025,SQL Handbook,Books,6,INR 299,₹ 1794,pune,cod,delivered
+ORD-0545,CUST-1091,Priya Verma,priya.verma696@gmail.com,29/06/2025,Power Bank,Electronics,2,"₹1,599","INR 3,198",Lucknow,Debit Card,Pending
+ORD-0507,CUST-1200,Rohan Gupta,rohan.gupta748@gmail.com,16-08-2025,USB Cable,Electronics,5,₹ 249,"INR 1,245",Lucknow,debit card,Shipped
+ORD-0134,CUST-1071,Simran Jain,simran.jain180@gmail.com,"Dec 20, 2025",Sneakers,Fashion,4,"1,599",₹ 6396,Delhi,debit card,pending
+ORD-0552,CUST-1092,Karan Singh,karan.singh248@gmail.com,"Aug 06, 2025",Bedsheet,Home,2,"1,599",3198,Jaipur,Debit Card,pending
+ORD-0312,CUST-1058,Rahul Singh,rahul.singh779@gmail.com,09-09-2025,Storage Box,Home,4,INR 999,"3,996",mumbai ,UPI,cancelled
+ORD-0845,CUST-1152,Vikas Yadav,vikas.yadav57@gmail.com,,Jeans,Fashion,2,₹199,₹398,Pune,Credit Card,Pending
+ORD-0953,CUST-1143,Vikas Mehta,vikas.mehta992@gmail.com,2025-11-30,Storage Box,Home,4,"1,299",₹ 5196,Lucknow,COD,cancelled
+ORD-0001,CUST-1056,Priya Gupta,priya.gupta152@gmail.com,22/02/2025,Wireless Mouse,Electronics,6,499,₹ 2994,Delhi,UPI,delivered
+ORD-0317,CUST-1212,Simran Jain,simran.jain119@gmail.com,2025-05-11,Wall Clock,Home,2,"INR 2,499","₹4,998",Bengaluru,credit card,Cancelled
+ORD-0746,CUST-1163,Karan Yadav,karan.yadav95@gmail.com,"May 11, 2025",Hoodie,Fashion,6,INR 299,1794,Mumbai,upi,shipped
+ORD-0549,CUST-1058,Aarav Singh,aarav.singh345@gmail.com,10/09/2025,Sneakers,Fashion,5,₹ 2499,"12,495",Pune,Debit Card,Cancelled
+ORD-0617,CUST-1210,Simran Yadav,simran.yadav790@gmail.com,"Sep 17, 2025",Jeans,Fashion,6,₹499,"INR 2,994",jaipur ,debit card,Pending
+ORD-0534,CUST-1011,Vikas Mishra,vikas.mishra783@gmail.com,2025-03-12,Hoodie,Fashion,2,"INR 1,299",₹ 2598,mumbai ,cod,Cancelled
+ORD-0480,CUST-1233,Rohan Kumar,rohan.kumar268@gmail.com,09-03-2025,Face Wash,Beauty,2,"1,299","2,598",Delhi,upi,DELIVERED
+ORD-0874,CUST-1091,Karan Jain,karan.jain108@gmail.com,"Mar 12, 2025",SQL Handbook,Books,5,299,1495,jaipur ,debit card,Cancelled
+ORD-0173,CUST-1191,Karan Yadav,karan.yadav587@gmail.com,"Jan 30, 2025",USB Cable,Electronics,2,"1,299","₹2,598",Bengaluru,Debit Card,Delivered
+ORD-0126,CUST-1162,Aarav Gupta,aarav.gupta439@gmail.com,"Nov 24, 2025",Jeans,Fashion,3,₹249,₹747,Pune,cod,Delivered
+ORD-0425,CUST-1238,Neha Yadav,neha.yadav897@gmail.com,02/11/2025,Perfume,Beauty,6,INR 249,"INR 1,494",pune,COD,cancelled
+ORD-0423,CUST-1203,Nitin Sharma,nitin.sharma395@gmail.com,26/10/2025,Data Analytics,Books,6,"2,499","INR 14,994",Delhi,Debit Card,Shipped
+ORD-0829,CUST-1187,Karan Gupta,karan.gupta641@gmail.com,"Nov 26, 2025",SQL Handbook,Books,2,"₹1,299",2598,Bengaluru,Credit Card,pending
+ORD-0907,CUST-1139,Priya Gupta,priya.gupta398@gmail.com,"Apr 05, 2025",Lip Balm,Beauty,4,199,₹796,jaipur ,Debit Card,Delivered
+ORD-0091,CUST-1202,Priya Singh,,2025-10-11,Jeans,Fashion,2,1599,"INR 3,198",Mumbai,debit card,DELIVERED
+ORD-0943,CUST-1054,Aarav Jain,aarav.jain102@gmail.com,27-12-2025,AI Fundamentals,Books,1,"2,499",2499,New Delhi,UPI,cancelled
+ORD-0182,CUST-1166,Karan Jain,karan.jain580@gmail.com,2025-09-29,Wall Clock,Home,1,₹ 1299,"INR 1,299",mumbai ,credit card,Pending
+ORD-0275,CUST-1147,Sneha Yadav,sneha.yadav596@gmail.com,"May 01, 2025",USB Cable,Electronics,5,799,"₹3,995",Bengaluru,UPI,cancelled
+ORD-0899,CUST-1179,Aditya Jain,aditya.jain708@gmail.com,17/12/2025,Wireless Mouse,Electronics,2,1299,₹ 2598,Delhi,Cash on Delivery,pending
+ORD-0070,CUST-1058,Aditya Gupta,aditya.gupta736@gmail.com,23-03-2025,Face Wash,Beauty,1,1999,"₹1,999",pune,Cash on Delivery,delivered
+ORD-0292,CUST-1191,Simran Kumar,simran.kumar752@gmail.com,2025-10-14,T-Shirt,Fashion,4,299,"₹1,196",Mumbai,debit card,Shipped
+ORD-0132,CUST-1095,Neha Jain,neha.jain920@gmail.com,"Jul 24, 2025",Headphones,Electronics,3,₹ 249,747,delhi,COD,Cancelled
+ORD-0301,CUST-1065,Rohan Sharma,rohan.sharma59@gmail.com,20/12/2025,Power Bank,Electronics,1,₹ 1999,₹ 1999,Bengaluru,upi,cancelled
+ORD-0583,CUST-1198,Ananya Verma,ananya.verma101@gmail.com,2025-07-08,Perfume,Beauty,4,1599,"₹6,396",Delhi,cod,pending
+ORD-0327,CUST-1085,Aarav Jain,aarav.jain295@gmail.com,12-10-2025,Storage Box,Home,1,INR 799,INR 799,Jaipur,Debit Card,Delivered
+ord-0145,CUST-1063,Aditya Jain,aditya.jain642@gmail.com,24/11/2025,Excel Guide,Books,6,₹ 399,2394,mumbai ,Debit Card,Cancelled
+ORD-0426,CUST-1161,Ananya Mehta,ananya.mehta511@gmail.com,2025-07-21,Wireless Mouse,Electronics,2,"₹1,299","2,598",jaipur ,debit card,Pending
+ORD-0584,CUST-1154,Simran Gupta,simran.gupta205@gmail.com,17-05-2025,Lip Balm,Beauty,1,₹ 399,₹ 399,delhi,Cash on Delivery,Shipped
+ORD-0136,CUST-1096,Neha Jain,neha.jain982@gmail.com,18/10/2025,Keyboard,Electronics,6,599,"INR 3,594",jaipur ,COD,Pending
+ORD-0666,CUST-1212,Vikas Mishra,vikas.mishra228@gmail.com,"May 03, 2025",Keyboard,Electronics,6,399,₹ 2394,Mumbai,Cash on Delivery,DELIVERED
+ORD-0165,CUST-1218,Aditya Mishra,aditya.mishra119@gmail.com,21-06-2025,T-Shirt,Fashion,1,₹ 499,499,pune,COD,DELIVERED
+ORD-0029,CUST-1237,Aarav Mehta,aarav.mehta225@gmail.com,2025-12-16,Water Bottle,Home,3,₹599,"1,797",pune,Cash on Delivery,DELIVERED
+ORD-0761,CUST-1208,Ananya Gupta,ananya.gupta491@gmail.com,22-07-2025,Face Wash,Beauty,2,"1,999","3,998",Bengaluru,Credit Card,cancelled
+ORD-0194,CUST-1145,Aarav Gupta,aarav.gupta226@gmail.com,"Dec 21, 2025",Cap,Fashion,1,"1,299","₹1,299",New Delhi,Debit Card,cancelled
+ORD-0993,CUST-1173,Rohan Yadav,rohan.yadav481@gmail.com,07/07/2025,USB Cable,Electronics,3,199,597,mumbai ,Cash on Delivery,Pending
+ORD-0705,CUST-1223,Simran Gupta,simran.gupta632@gmail.com,15-07-2025,Keyboard,Electronics,6,"INR 2,499",₹ 14994,jaipur ,UPI,delivered
+ORD-0170,CUST-1196,Vikas Verma,vikas.verma475@gmail.com,07-11-2025,Data Analytics,Books,2,₹ 299,598,Pune,cod,Shipped
+ORD-0491,CUST-1005,Rohan Yadav,rohan.yadav742@gmail.com,13/05/2025,Shampoo,Beauty,5,"₹1,999","₹9,995",New Delhi,Debit Card,Cancelled
+ORD-0141,CUST-1033,Karan Mishra,karan.mishra85@gmail.com,06-03-2025,Lip Balm,Beauty,5,₹799,₹ 3995,Pune,cod,Pending
+ORD-0174,CUST-1047,Karan Mehta,karan.mehta727@gmail.com,02/02/2025,Storage Box,Home,1,₹199,₹ 199,Delhi,Debit Card,pending
+ORD-0007,CUST-1055,Aarav Gupta,aarav.gupta851@gmail.com,17-01-2025,Data Analytics,Books,6,₹ 599,"3,594",New Delhi,credit card,Pending
+ORD-0645,CUST-1077,Priya Mishra,priya.mishra870@gmail.com,19-09-2025,Hoodie,Fashion,3,"₹1,999","INR 5,997",Lucknow,cod,delivered
+ORD-0635,CUST-1182,Priya Jain,priya.jain357@gmail.com,04/10/2025,AI Fundamentals,Books,4,₹ 799,"3,196",jaipur ,upi,DELIVERED
+ORD-0074,CUST-1170,Aditya Jain,aditya.jain249@gmail.com,30/07/2025,Jeans,Fashion,6,399,₹ 2394,Lucknow,Cash on Delivery,pending
+ORD-0974,CUST-1181,Vikas Singh,vikas.singh908@gmail.com,07-05-2025,Keyboard,Electronics,6,INR 599,"INR 3,594",mumbai ,UPI,pending
+ORD-0979,CUST-1140,Karan Yadav,karan.yadav352@gmail.com,22/06/2025,Headphones,Electronics,1,INR 299,299,mumbai ,Credit Card,Cancelled
+ORD-0239,CUST-1180,Rohan Jain,rohan.jain128@gmail.com,21/08/2025,Shampoo,Beauty,1,399,INR 399,New Delhi,UPI,DELIVERED
+ORD-0146,CUST-1081,Simran Sharma,simran.sharma171@gmail.com,"Aug 14, 2025",Body Lotion,Beauty,4,₹ 249,₹ 996,Mumbai,debit card,DELIVERED
+ORD-0801,CUST-1103,Simran Gupta,simran.gupta443@gmail.com,22-03-2025,Cap,Fashion,5,₹499,2495,Bengaluru,Credit Card,Shipped
+ORD-0235,CUST-1093,Priya Yadav,priya.yadav405@gmail.com,2025-02-27,Body Lotion,Beauty,6,₹ 199,1194,New Delhi,cod,Delivered
+ORD-0221,CUST-1221,Karan Singh,karan.singh763@gmail.com,2025-12-01,USB Cable,Electronics,5,399,"₹1,995",Pune,Debit Card,Pending
+ORD-0478,CUST-1178,Vikas Mishra,vikas.mishra761@gmail.com,"Jun 19, 2025",USB Cable,Electronics,4,"1,299","5,196",mumbai ,Credit Card,Delivered
+ORD-0836,CUST-1041,Aditya Mishra,aditya.mishra885@gmail.com,17/01/2025,T-Shirt,Fashion,2,"1,999","3,998",Pune,cod,Delivered
+ORD-0133,CUST-1084,Karan Singh,karan.singh450@gmail.com,2025-11-05,Excel Guide,Books,1,2499,"2,499",Bangalore,upi,delivered
+ORD-0994,CUST-1092,Rahul Kumar,rahul.kumar375@gmail.com,02/08/2025,T-Shirt,Fashion,5,₹ 499,"2,495",mumbai ,UPI,delivered
+ORD-0944,CUST-1142,Sneha Jain,sneha.jain890@gmail.com,28-04-2025,Cap,Fashion,2,INR 299,598,Bangalore,Cash on Delivery,Shipped
+ORD-0186,CUST-1190,Rohan Yadav,rohan.yadav789@gmail.com,2025-06-13,Cap,Fashion,4,999,"3,996",Bengaluru,UPI,Shipped
+ORD-0042,CUST-1107,Simran Verma,simran.verma733@gmail.com,20/04/2025,Table Lamp,Home,2,₹ 799,₹ 1598,Bangalore,cod,Cancelled
+ORD-0614,CUST-1031,Rahul Verma,rahul.verma857@gmail.com,15/09/2025,Sneakers,Fashion,3,"₹1,999","5,997",Bengaluru,upi,Shipped
+ORD-0109,CUST-1187,Rahul Singh,rahul.singh532@gmail.com,21/11/2025,Sneakers,Fashion,2,599,1198,Mumbai,debit card,Pending
+ORD-0592,CUST-1090,Vikas Sharma,vikas.sharma462@gmail.com,"Jul 02, 2025",Wall Clock,Home,4,₹ 249,₹ 996,New Delhi,Credit Card,delivered
+ORD-0057,CUST-1071,Rohan Gupta,rohan.gupta313@gmail.com,27-04-2025,AI Fundamentals,Books,5,INR 499,"2,495",Delhi,cod,DELIVERED
+ORD-0530,CUST-1082,Ananya Gupta,ananya.gupta33@gmail.com,"Feb 12, 2025",Storage Box,Home,5,₹399,1995,Bengaluru,credit card,Cancelled
+ORD-0870,CUST-1065,Aditya Singh,aditya.singh64@gmail.com,08-09-2025,Face Wash,Beauty,2,₹499,₹ 998,Bangalore,UPI,Delivered
+ORD-0934,CUST-1170,Simran Mehta,simran.mehta923@gmail.com,"Jan 20, 2025",Perfume,Beauty,6,₹249,1494,Bangalore,credit card,cancelled
+ORD-0864,CUST-1065,Rohan Kumar,rohan.kumar833@gmail.com,"Jun 21, 2025",Data Analytics,Books,2,₹ 249,498,pune,Debit Card,Cancelled
+ORD-0025,CUST-1239,Ananya Verma,ananya.verma458@gmail.com,06-10-2025,T-Shirt,Fashion,2,599,1198,Delhi,cod,shipped
+ORD-0650,CUST-1232,Aditya Kumar,aditya.kumar837@gmail.com,2025-04-24,Sneakers,Fashion,2,₹ 249,498,Delhi,Debit Card,Cancelled
+ORD-0449,CUST-1090,Aarav Yadav,aarav.yadav650@gmail.com,2025-03-02,Jeans,Fashion,1,249,₹ 249,Bengaluru,UPI,Pending
+ORD-0533,CUST-1105,Priya Kumar,priya.kumar496@gmail.com,26-09-2025,AI Fundamentals,Books,1,₹299,299,Bengaluru,upi,Delivered
+ORD-0622,CUST-1228,Ananya Patel,ananya.patel635@gmail.com,"Mar 17, 2025",Sneakers,Fashion,3,₹ 199,INR 597,pune,COD,Pending
+ORD-0698,CUST-1092,Priya Mishra,priya.mishra222@gmail.com,"Oct 05, 2025",Sneakers,Fashion,5,₹ 1999,"₹9,995",Mumbai,credit card,delivered
+ORD-0930,CUST-1142,Rahul Kumar,rahul.kumar971@gmail.com,13/05/2025,Hoodie,Fashion,4,INR 399,"1,596",delhi,upi,Shipped
+ORD-0339,CUST-1119,Priya Mishra,priya.mishra864@gmail.com,2025-05-10,Data Analytics,Books,2,₹299,INR 598,jaipur ,UPI,cancelled
+ORD-0052,CUST-1087,Aditya Kumar,aditya.kumar340@gmail.com,06/05/2025,Lip Balm,Beauty,4,"2,499",₹ 9996,Mumbai,COD,pending
+ORD-0667,CUST-1250,Neha Sharma,neha.sharma578@gmail.com,2025-02-28,Headphones,Electronics,1,249,₹ 249,Mumbai,debit card,Delivered
+ORD-0621,CUST-1224,Nitin Verma,nitin.verma934@gmail.com,22/10/2025,USB Cable,Electronics,1,1999,"1,999",Bengaluru,Cash on Delivery,cancelled
+ORD-0924,CUST-1222,Simran Singh,simran.singh139@gmail.com,"Jan 18, 2025",Cap,Fashion,6,₹999,"INR 5,994",New Delhi,Credit Card,cancelled
+ORD-0636,CUST-1049,Ananya Patel,ananya.patel670@gmail.com,05/03/2025,Power Bank,Electronics,6,"INR 2,499",14994,pune,UPI,cancelled
+ORD-0265,CUST-1037,Karan Mishra,karan.mishra43@gmail.com,04-04-2025,Water Bottle,Home,6,1599,"INR 9,594",jaipur ,upi,Cancelled
+ORD-0539,CUST-1211,Rahul Patel,rahul.patel340@gmail.com,11-06-2025,Table Lamp,Home,1,"1,599","1,599",New Delhi,cod,Pending
+ORD-0714,CUST-1181,Nitin Verma,nitin.verma270@gmail.com,2025-05-07,Bedsheet,Home,5,₹999,"₹4,995",New Delhi,Cash on Delivery,pending
+ORD-0686,CUST-1080,Rohan Verma,rohan.verma559@gmail.com,"Aug 03, 2025",Hoodie,Fashion,4,₹299,₹ 1196,Mumbai,Credit Card,Shipped
+ORD-0950,CUST-1086,Aditya Sharma,aditya.sharma416@gmail.com,"Apr 29, 2025",Python Basics,Books,4,399,₹ 1596,Jaipur,upi,shipped
+ORD-0520,CUST-1229,Nitin Patel,nitin.patel931@gmail.com,"May 30, 2025",USB Cable,Electronics,6,1299,"7,794",jaipur ,upi,Shipped
+ORD-0450,CUST-1030,Priya Kumar,priya.kumar270@gmail.com,04-02-2025,Data Analytics,Books,1,"1,999",1999,pune,debit card,Delivered
+ORD-0019,CUST-1232,Sneha Sharma,sneha.sharma105@gmail.com,2025-05-02,Python Basics,Books,1,₹ 1999,₹ 1999,Pune,credit card,pending
+ORD-0719,CUST-1008,Rohan Verma,rohan.verma91@gmail.com,31/05/2025,Lip Balm,Beauty,6,₹ 1599,"₹9,594",mumbai ,upi,Pending
+ORD-0486,CUST-1090,Aarav Sharma,aarav.sharma861@gmail.com,04/02/2025,Jeans,Fashion,3,₹ 1299,"₹3,897",pune,upi,Cancelled
+ORD-0571,CUST-1222,Sneha Verma,sneha.verma669@gmail.com,"Jan 22, 2025",Headphones,Electronics,3,"₹1,999","₹5,997",New Delhi,debit card,shipped
+ORD-0345,CUST-1102,Neha Jain,neha.jain238@gmail.com,29-10-2025,SQL Handbook,Books,6,INR 299,₹ 1794,pune,cod,delivered
+ORD-0368,CUST-1145,Sneha Kumar,sneha.kumar358@gmail.com,01-03-2025,Python Basics,Books,5,249,1245,mumbai ,COD,pending
+ORD-0084,CUST-1120,Sneha Kumar,sneha.kumar860@gmail.com,26-03-2025,Storage Box,Home,3,₹ 1299,"3,897",Lucknow,debit card,delivered
+ORD-0062,CUST-1180,Aarav Jain,aarav.jain471@gmail.com,"Dec 19, 2025",Storage Box,Home,1,299,₹299,Mumbai,Debit Card,shipped
+ORD-0440,CUST-1223,Aditya Verma,aditya.verma397@gmail.com,"Oct 09, 2025",SQL Handbook,Books,6,"₹1,299","INR 7,794",Bangalore,Credit Card,DELIVERED
+ORD-0273,CUST-1113,Sneha Jain,sneha.jain199@gmail.com,"Jul 09, 2025",Body Lotion,Beauty,1,"1,999","INR 1,999",Pune,UPI,shipped
+ORD-0286,CUST-1234,Priya Gupta,priya.gupta285@gmail.com,"Nov 30, 2025",Data Analytics,Books,2,1999,"₹3,998",jaipur ,UPI,Cancelled
+ORD-0361,CUST-1201,Ananya Mishra,ananya.mishra362@gmail.com,"Dec 28, 2025",AI Fundamentals,Books,4,INR 499,"₹1,996",Lucknow,credit card,Cancelled
+ORD-0355,CUST-1231,Priya Patel,priya.patel890@gmail.com,"Sep 16, 2025",Shampoo,Beauty,1,INR 199,199,New Delhi,Credit Card,Cancelled
+ORD-0990,CUST-1198,Aditya Patel,aditya.patel403@gmail.com,"Dec 18, 2025",Keyboard,Electronics,3,₹299,₹ 897,jaipur ,Cash on Delivery,pending
+ORD-0279,CUST-1045,Sneha Mehta,sneha.mehta908@gmail.com,30-07-2025,Power Bank,Electronics,1,₹ 499,₹ 499,Jaipur,COD,Delivered
+ORD-0013,CUST-1136,Vikas Singh,vikas.singh788@gmail.com,2025-09-30,Python Basics,Books,1,"INR 2,499",₹ 2499,pune,Credit Card,shipped
+ORD-0183,CUST-1206,Sneha Gupta,sneha.gupta62@gmail.com,"May 18, 2025",USB Cable,Electronics,3,249,747,Delhi,upi,Shipped
+ORD-0369,CUST-1163,Nitin Yadav,nitin.yadav928@gmail.com,28/10/2025,Shampoo,Beauty,3,₹ 999,"₹2,997",mumbai ,upi,pending
+ORD-0495,CUST-1036,Ananya Jain,ananya.jain927@gmail.com,24-02-2025,USB Cable,Electronics,6,₹ 399,"₹2,394",jaipur ,COD,Shipped
+ORD-0619,CUST-1230,Priya Verma,priya.verma781@gmail.com,"Sep 29, 2025",Body Lotion,Beauty,6,"INR 1,999","INR 11,994",Bengaluru,Cash on Delivery,pending
+ORD-0224,CUST-1037,Ananya Verma,ananya.verma728@gmail.com,2025-03-09,Keyboard,Electronics,4,INR 199,796,Mumbai,Cash on Delivery,Cancelled
+ORD-0576,CUST-1222,Aarav Gupta,aarav.gupta269@gmail.com,"Oct 10, 2025",Python Basics,Books,6,"1,999","11,994",jaipur ,upi,cancelled
+ORD-0912,CUST-1245,Vikas Patel,vikas.patel233@gmail.com,29/07/2025,USB Cable,Electronics,1,599,₹599,mumbai ,cod,Pending
+ORD-0867,CUST-1242,Nitin Patel,nitin.patel930@gmail.com,2025-08-19,Face Wash,Beauty,3,"1,999","5,997",Bangalore,Cash on Delivery,pending
+ORD-0632,CUST-1210,Rahul Verma,rahul.verma812@gmail.com,"Oct 29, 2025",Sneakers,Fashion,4,₹199,796,mumbai ,credit card,DELIVERED
+ORD-0586,CUST-1183,Nitin Yadav,nitin.yadav97@gmail.com,"Jan 06, 2025",Bedsheet,Home,5,"INR 1,999","9,995",Lucknow,Cash on Delivery,Shipped
+ORD-0612,CUST-1034,Nitin Mehta,nitin.mehta825@gmail.com,2025-08-30,Hoodie,Fashion,4,1999,"INR 7,996",mumbai ,upi,Cancelled
+ORD-0177,CUST-1026,Rohan Sharma,rohan.sharma838@gmail.com,"Dec 05, 2025",Bedsheet,Home,2,2499,"₹4,998",Mumbai,credit card,delivered
+ORD-0669,CUST-1095,Nitin Verma,nitin.verma398@gmail.com,02/12/2025,Bedsheet,Home,1,199,INR 199,mumbai ,COD,Shipped
+ORD-0631,CUST-1096,Rohan Mehta,rohan.mehta595@gmail.com,29/05/2025,Power Bank,Electronics,4,249,INR 996,New Delhi,debit card,shipped
+ORD-0589,CUST-1033,Vikas Verma,vikas.verma101@gmail.com,"Jun 12, 2025",Storage Box,Home,4,INR 599,"2,396",New Delhi,debit card,Delivered
+ORD-0522,CUST-1075,Ananya Jain,ananya.jain708@gmail.com,2025-10-05,Storage Box,Home,6,₹ 199,"1,194",Bengaluru,COD,Delivered
+ORD-0394,CUST-1199,Vikas Mehta,vikas.mehta484@gmail.com,23/12/2025,Bedsheet,Home,4,499,"₹1,996",delhi,UPI,shipped
+ORD-0164,CUST-1240,Simran Sharma,simran.sharma945@gmail.com,"Mar 31, 2025",Data Analytics,Books,5,"INR 2,499","₹12,495",Bengaluru,COD,DELIVERED
+ORD-0249,CUST-1035,Neha Jain,neha.jain727@gmail.com,17-06-2025,Table Lamp,Home,3,₹ 499,"1,497",Mumbai,upi,Shipped
+ORD-0742,CUST-1032,Rahul Mishra,rahul.mishra221@gmail.com,2025-12-01,Body Lotion,Beauty,1,₹199,199,mumbai ,UPI,delivered
+ORD-0889,CUST-1083,Aarav Mishra,aarav.mishra266@gmail.com,28/02/2025,Wall Clock,Home,4,₹249,₹ 996,Bangalore,UPI,DELIVERED
+ORD-0775,CUST-1043,Nitin Singh,nitin.singh942@gmail.com,12/08/2025,Excel Guide,Books,3,₹ 999,₹ 2997,pune,cod,Delivered
+ORD-0376,CUST-1108,Priya Kumar,priya.kumar492@gmail.com,10-11-2025,Jeans,Fashion,5,499,"INR 2,495",Pune,Cash on Delivery,Shipped
+ORD-0413,CUST-1208,Vikas Mehta,vikas.mehta169@gmail.com,12-03-2025,Data Analytics,Books,1,199,199,Mumbai,credit card,shipped
+ORD-0075,CUST-1105,Sneha Mishra,sneha.mishra349@gmail.com,"Feb 21, 2025",Wall Clock,Home,1,₹299,299,Pune,UPI,DELIVERED
+ORD-0114,CUST-1113,Vikas Singh,vikas.singh840@gmail.com,25/06/2025,Perfume,Beauty,2,199,INR 398,Delhi,credit card,Cancelled
+ORD-0695,CUST-1100,Rahul Gupta,rahul.gupta741@gmail.com,2025-01-18,Jeans,Fashion,4,₹ 599,"₹2,396",jaipur ,cod,delivered
+ORD-0922,CUST-1031,Sneha Gupta,sneha.gupta805@gmail.com,2025-07-28,Shampoo,Beauty,5,299,"1,495",mumbai ,debit card,Pending
+ORD-0391,CUST-1219,Priya Patel,priya.patel792@gmail.com,10-11-2025,T-Shirt,Fashion,4,"1,999",7996,mumbai ,Cash on Delivery,Shipped
+ORD-0105,CUST-1045,Priya Verma,priya.verma792@gmail.com,11-05-2025,Wireless Mouse,Electronics,2,499,₹998,Delhi,COD,pending
+ORD-0115,CUST-1017,Neha Mehta,neha.mehta949@gmail.com,"May 25, 2025",AI Fundamentals,Books,5,₹ 299,"1,495",jaipur ,UPI,Pending
+ORD-0418,CUST-1102,Sneha Jain,sneha.jain802@gmail.com,2025-12-24,Body Lotion,Beauty,1,INR 799,₹ 799,pune,credit card,Cancelled
+ORD-0712,CUST-1182,Rohan Jain,rohan.jain964@gmail.com,2025-10-17,Python Basics,Books,4,INR 199,₹ 796,mumbai ,debit card,cancelled
+ORD-0458,CUST-1071,Simran Kumar,simran.kumar33@gmail.com,23-10-2025,Wireless Mouse,Electronics,5,"INR 1,999","9,995",Mumbai,credit card,shipped
+ORD-0410,CUST-1145,Neha Mehta,,16-06-2025,Storage Box,Home,5,₹ 999,₹ 4995,Lucknow,debit card,Shipped
+ORD-0093,CUST-1152,Aarav Verma,aarav.verma769@gmail.com,04/08/2025,T-Shirt,Fashion,2,₹499,₹ 998,Pune,debit card,cancelled
+ORD-0603,CUST-1160,Aarav Singh,aarav.singh436@gmail.com,27-12-2025,Shampoo,Beauty,2,799,1598,Lucknow,COD,Cancelled
+ORD-0090,CUST-1013,Aarav Jain,aarav.jain292@gmail.com,08/04/2025,Cap,Fashion,6,₹ 599,"₹3,594",jaipur ,credit card,Delivered
+ORD-0337,CUST-1142,Priya Verma,priya.verma774@gmail.com,20-07-2025,USB Cable,Electronics,2,"INR 1,299","2,598",jaipur ,debit card,Delivered
+ORD-0992,CUST-1112,Nitin Singh,nitin.singh163@gmail.com,04-01-2025,Wall Clock,Home,5,799,"3,995",Mumbai,cod,Cancelled
+ORD-0925,CUST-1185,Rahul Jain,rahul.jain723@gmail.com,2025-10-13,SQL Handbook,Books,4,599,"₹2,396",Bangalore,debit card,delivered
+ORD-0937,CUST-1216,Simran Kumar,simran.kumar638@gmail.com,2025-07-14,Table Lamp,Home,1,799,₹ 799,pune,Credit Card,shipped
+ORD-0637,CUST-1207,Nitin Patel,nitin.patel194@gmail.com,10-01-2025,Perfume,Beauty,1,INR 249,INR 249,Lucknow,COD,delivered
+ORD-0597,CUST-1206,Aarav Gupta,aarav.gupta176@gmail.com,"Jul 18, 2025",Table Lamp,Home,4,249,INR 996,New Delhi,Debit Card,Cancelled
+ORD-0995,CUST-1229,Priya Verma,priya.verma96@gmail.com,01/10/2025,Power Bank,Electronics,6,INR 799,"INR 4,794",jaipur ,COD,pending
+ORD-0095,CUST-1098,Rohan Singh,rohan.singh339@gmail.com,2025-11-08,USB Cable,Electronics,6,₹999,"INR 5,994",mumbai ,cod,Pending
+ORD-0012,CUST-1225,Aditya Mehta,aditya.mehta510@gmail.com,10/01/2025,Storage Box,Home,5,199,995,Mumbai,UPI,Shipped
+ORD-0397,CUST-1061,Ananya Yadav,ananya.yadav663@gmail.com,2025-06-02,Power Bank,Electronics,5,249,"₹1,245",jaipur ,credit card,delivered
+ORD-0535,CUST-1168,Sneha Yadav,sneha.yadav239@gmail.com,14/01/2025,Cap,Fashion,3,INR 999,"2,997",mumbai ,COD,delivered
+ORD-0044,CUST-1100,Sneha Mishra,sneha.mishra929@gmail.com,"Apr 23, 2025",Perfume,beauty,6,"INR 2,499","14,994",Bengaluru,COD,Delivered
+ORD-0043,CUST-1219,Aditya Sharma,aditya.sharma887@gmail.com,"Oct 22, 2025",Keyboard,Electronics,4,₹ 799,"₹3,196",Bangalore,Debit Card,pending
+ORD-0330,CUST-1062,Neha Mehta,neha.mehta310@gmail.com,"Apr 22, 2025",Table Lamp,Home,6,599,"₹3,594",New Delhi,debit card,Cancelled
+ORD-0168,CUST-1168,Priya Yadav,priya.yadav781@gmail.com,17-05-2025,Water Bottle,Home,3,799,2397,Lucknow,UPI,shipped
+ORD-0500,CUST-1017,Nitin Jain,nitin.jain342@gmail.com,2025-03-03,Wall Clock,Home,3,"2,499","INR 7,497",Delhi,Credit Card,Pending
+ORD-0880,CUST-1124,Vikas Sharma,vikas.sharma862@gmail.com,"Sep 16, 2025",Keyboard,Electronics,2,₹ 249,₹498,New Delhi,Debit Card,pending
+ORD-0940,CUST-1198,Nitin Gupta,nitin.gupta39@gmail.com,29-05-2025,Lip Balm,Beauty,N/A,799,"INR 3,995",Bengaluru,UPI,cancelled
+ORD-0760,CUST-1234,Rohan Jain,rohan.jain513 @gmail.com,12/04/2025,Wall Clock,Home,3,199,597,delhi,Cash on Delivery,delivered
+ORD-0101,CUST-1037,Simran Kumar,simran.kumar953@gmail.com,23-06-2025,T-Shirt,Fashion,2,₹499,INR 998,New delhi ,Cash on Delivery,delivered
+ORD-0427,CUST-1230,Aarav Kumar,aarav.kumar909@gmail.com,18/07/2025,Jeans,Fashion,5,499,"2,495",Mumbai,Credit Card,Pending
+ORD-0179,CUST-1106,Aditya Mehta,aditya.mehta601@gmail.com,03-11-2025,Excel Guide,Books,2,"INR 2,499","4,998",delhi,cod,Shipped
+ORD-0445,CUST-1197,Simran Mishra,simran.mishra596@gmail.com,2025-10-15,Bedsheet,Home,5,₹ 1999,9995,Bangalore,UPI,delivered
+ORD-0417,CUST-1141,Priya Jain,priya.jain306@gmail.com,2025-07-21,AI Fundamentals,Books,5,INR 249,"1,245",New Delhi,COD,Delivered
+ORD-0651,CUST-1151,Nitin Jain,nitin.jain123@gmail.com,"May 23, 2025",Data Analytics,Books,1,INR 399,399,Mumbai,Credit Card,delivered
+ORD-0886,CUST-1247,Rahul Kumar,rahul.kumar813@gmail.com,04-12-2025,Excel Guide,Books,4,₹ 2499,"₹9,996",jaipur ,COD,pending
+ORD-0983,CUST-1048,Rahul Yadav,rahul.yadav10@gmail.com,2025-12-04,Bedsheet,Home,4,INR 799,"INR 3,196",mumbai ,Debit Card,delivered
+ORD-0178,CUST-1036,Nitin Sharma,nitin.sharma260@gmail.com,"Jan 23, 2025",Python Basics,Books,4,₹ 1599,"INR 6,396",pune,credit card,Delivered
+ORD-0396,CUST-1041,Priya Yadav,priya.yadav762@gmail.com,2025-02-18,Shampoo,Beauty,6,₹ 199,₹ 1194,jaipur ,Debit Card,Pending
+ORD-0680,CUST-1198,Aditya Patel,aditya.patel785@gmail.com,"Aug 28, 2025",Wall Clock,Home,2,"1,299","₹2,598",Bangalore,credit card,pending
+ORD-0797,CUST-1096,Priya Gupta,priya.gupta67@gmail.com,12/03/2025,Storage Box,Home,4,INR 399,₹ 1596,Lucknow,UPI,pending
+ORD-0964,CUST-1144,Neha Patel,neha.patel90@gmail.com,2025-11-06,Body Lotion,Beauty,3,"INR 1,299","3,897",Lucknow,Credit Card,pending
+ORD-0688,CUST-1166,Neha Mishra,neha.mishra910@gmail.com,"Sep 09, 2025",Perfume,Beauty,2,₹ 1299,2598,Delhi,upi,shipped
+ORD-0384,CUST-1017,Simran Gupta,simran.gupta687@gmail.com,09/05/2025,Table Lamp,Home,1,INR 299,INR 299,Bengaluru,upi,delivered
+ORD-0960,CUST-1072,Ananya Patel,ananya.patel564@gmail.com,2025-11-25,Sneakers,Fashion,5,₹799,3995,delhi,upi,Shipped
+ORD-0616,CUST-1234,Aditya Mishra,aditya.mishra810@gmail.com,22/02/2025,Lip Balm,Beauty,1,249,₹249,delhi,upi,Shipped
+ORD-0258,CUST-1092,Ananya Verma,ananya.verma36@gmail.com,2025-06-13,AI Fundamentals,Books,3,₹799,"2,397",Delhi,COD,cancelled
+ORD-0336,CUST-1102,Neha Patel,neha.patel118@gmail.com,29-05-2025,Python Basics,Books,6,249,"₹1,494",mumbai ,COD,pending
+ORD-0016,CUST-1201,Priya Kumar,priya.kumar695@gmail.com,2025-09-06,Headphones,Electronics,1,1299,"INR 1,299",Lucknow,COD,Shipped
+ORD-0325,CUST-1234,Nitin Mehta,nitin.mehta999@gmail.com,10/10/2025,USB Cable,Electronics,4,₹799,"3,196",Mumbai,COD,Shipped
+ORD-0762,CUST-1049,Vikas Verma,vikas.verma153@gmail.com,"Jul 01, 2025",T-Shirt,Fashion,4,"₹1,999","7,996",Lucknow,credit card,delivered
+ORD-0223,CUST-1231,Ananya Mishra,ananya.mishra561@gmail.com,28-03-2025,Power Bank,Electronics,3,"1,299","3,897",Jaipur,Debit Card,cancelled
+ORD-0180,CUST-1202,Aditya Verma,aditya.verma651@gmail.com,"Dec 14, 2025",Sneakers,Fashion,1,1299,₹ 1299,Delhi,debit card,pending
+ORD-0987,CUST-1012,Neha Mehta,neha.mehta523@gmail.com,"Jan 01, 2025",Data Analytics,Books,2,₹599,"INR 1,198",delhi,COD,Shipped
+ORD-0023,CUST-1172,Aditya Patel,aditya.patel333@gmail.com,2025-05-14,USB Cable,Electronics,6,"1,599","INR 9,594",mumbai ,Cash on Delivery,DELIVERED
+ORD-0357,CUST-1035,Karan Gupta,karan.gupta970@gmail.com,"Sep 04, 2025",T-Shirt,Fashion,6,"1,299",7794,Lucknow,upi,pending
+ORD-0670,CUST-1082,Karan Singh,karan.singh131@gmail.com,2025-03-15,Jeans,Fashion,5,"INR 1,599","INR 7,995",pune,Cash on Delivery,Pending
+ORD-0865,CUST-1038,Ananya Mehta,ananya.mehta922@gmail.com,"Sep 23, 2025",Hoodie,Fashion,1,₹599,599,jaipur ,cod,Delivered
+ORD-0341,CUST-1246,Vikas Yadav,vikas.yadav346@gmail.com,12-11-2025,Python Basics,Books,2,599,"INR 1,198",Jaipur,debit card,Pending
+ORD-0432,CUST-1035,Aditya Mishra,aditya.mishra246@gmail.com,2025-11-02,AI Fundamentals,Books,3,"INR 1,599","₹4,797",Bangalore,upi,Cancelled
+ORD-0553,CUST-1161,Sneha Kumar,sneha.kumar160@gmail.com,21/08/2025,Perfume,Beauty,4,₹999,"3,996",Pune,COD,Shipped
+ORD-0837,CUST-1084,Aditya Sharma,aditya.sharma558@gmail.com,2025-01-12,Excel Guide,Books,1,INR 399,399,New Delhi,credit card,Delivered
+ORD-0204,CUST-1084,Aditya Gupta,aditya.gupta500@gmail.com,2025-06-10,Data Analytics,Books,3,₹ 599,"1,797",mumbai ,COD,Shipped
+ORD-0634,CUST-1205,Rahul Verma,rahul.verma526@gmail.com,"Nov 22, 2025",Lip Balm,Beauty,6,₹ 1599,₹ 9594,delhi,debit card,delivered
+ORD-0094,CUST-1110,Aditya Sharma,aditya.sharma754@gmail.com,04-12-2025,USB Cable,Electronics,5,₹ 399,"₹1,995",Delhi,COD,pending
+ORD-0560,CUST-1170,Aarav Mehta,aarav.mehta399@gmail.com,"Feb 19, 2025",Sneakers,Fashion,6,"1,599","9,594",Bengaluru,debit card,Delivered
+ORD-0069,CUST-1113,Aditya Yadav,aditya.yadav650@gmail.com,15/08/2025,Keyboard,Electronics,5,INR 599,"2,995",pune,Credit Card,shipped
+ORD-0626,CUST-1134,Nitin Patel,nitin.patel874@gmail.com,2025-11-01,Storage Box,Home,5,"2,499","12,495",mumbai ,Credit Card,pending
+ORD-0285,CUST-1219,Neha Verma,neha.verma867@gmail.com,13/05/2025,Perfume,Beauty,5,599,"₹2,995",Bengaluru,UPI,DELIVERED
+ORD-0808,CUST-1160,Nitin Verma,nitin.verma797@gmail.com,24-03-2025,Keyboard,Electronics,2,₹ 1999,"INR 3,998",Bangalore,Debit Card,Pending
+ORD-0435,CUST-1165,Aarav Mishra,aarav.mishra762@gmail.com,14-07-2025,Shampoo,Beauty,4,₹ 799,3196,Lucknow,cod,cancelled
+ORD-0154,CUST-1126,Aditya Mehta,aditya.mehta176@gmail.com,21-07-2025,AI Fundamentals,Books,2,599,"1,198",pune,cod,cancelled
+ORD-0076,CUST-1224,Neha Mishra,neha.mishra719@gmail.com,23/07/2025,Water Bottle,Home,4,499,1996,Bengaluru,debit card,Cancelled
+ORD-0821,CUST-1056,Ananya Patel,ananya.patel749@gmail.com,"Jan 02, 2025",T-Shirt,Fashion,6,INR 799,₹ 4794,jaipur ,upi,Delivered
+ORD-0447,CUST-1110,Simran Gupta,simran.gupta636@gmail.com,30/01/2025,SQL Handbook,Books,5,399,1995,New Delhi,COD,shipped
+ORD-0189,CUST-1018,Nitin Sharma,nitin.sharma546@gmail.com,18/01/2025,SQL Handbook,Books,2,"₹1,299","₹2,598",Bengaluru,Credit Card,Shipped
+ORD-0272,CUST-1121,Rohan Sharma,rohan.sharma221@gmail.com,29-03-2025,Cap,Fashion,4,₹399,₹ 1596,New Delhi,Debit Card,pending
+ORD-0237,CUST-1158,Sneha Kumar,sneha.kumar653@gmail.com,"Dec 31, 2025",Water Bottle,Home,1,₹ 799,₹ 799,New Delhi,cod,cancelled
+ORD-0488,CUST-1164,Nitin Mishra,nitin.mishra832@gmail.com,05/04/2025,Data Analytics,Books,4,"INR 1,999","7,996",mumbai ,COD,delivered
+ORD-0118,CUST-1217,Priya Mehta,priya.mehta980@gmail.com,2025-09-06,Headphones,Electronics,3,INR 299,INR 897,delhi,upi,shipped
+ORD-0914,CUST-1139,Vikas Mishra,vikas.mishra334@gmail.com,2025-01-22,Keyboard,Electronics,6,"₹1,299","7,794",mumbai ,UPI,Pending
+ORD-0513,CUST-1116,Aarav Yadav,aarav.yadav761@gmail.com,16/09/2025,Python Basics,Books,4,₹ 199,796,Bengaluru,COD,delivered
+ORD-0555,CUST-1130,Nitin Patel,nitin.patel795@gmail.com,"Sep 10, 2025",AI  Fundamentals,Books,1,INR 249,249,jaipur ,COD,Cancelled
+ORD-0595,CUST-1084,Nitin Yadav,nitin.yadav474@gmail.com,18-11-2025,Wireless Mouse,Electronics,4,2499,"₹9,996",Bangalore,UPI,Cancelled
+ORD-0127,CUST-1135,Rahul Kumar,rahul.kumar449@gmail.com,01-01-2025,AI Fundamentals,Books,2,"INR 2,499",4998,Bengaluru,Credit Card,delivered
+ORD-0117,CUST-1093,Rohan Kumar,rohan.kumar582@gmail.com,12-07-2025,Shampoo,Beauty,5,"INR 2,499",12495,New Delhi,Cash on Delivery,cancelled
+ORD-0474,CUST-1142,Rahul Jain,rahul.jain890@gmail.com,"Aug 22, 2025",Lip Balm,Beauty,2,249,INR 498,Pune,cod,pending
+ORD-0697,CUST-1209,Priya Singh,priya.singh235@gmail.com,2025-02-19,Face Wash,Beauty,1,INR 599,₹599,Bengaluru,cod,delivered
+ORD-0058,CUST-1113,Simran Verma,simran.verma663@gmail.com,09/09/2025,Wireless Mouse,Electronics,5,₹499,2495,mumbai ,COD,Cancelled
+ORD-0678,CUST-1003,Neha Kumar,neha.kumar319@gmail.com,16-12-2025,Bedsheet,Home,2,"INR 1,999",3998,delhi,cod,shipped
+ORD-0916,CUST-1121,Karan Kumar,karan.kumar156@gmail.com,13-01-2025,Hoodie,Fashion,1,1999,"1,999",Bangalore,Cash on Delivery,Pending
+ORD-0370,CUST-1020,Neha Patel,neha.patel558@gmail.com,05-01-2025,Table Lamp,Home,3,INR 799,"2,397",New Delhi,Cash on Delivery,Pending
+ORD-0269,CUST-1111,Karan Verma,karan.verma759@gmail.com,08/02/2025,Wireless Mouse,Electronics,3,299,897,Jaipur,COD,Delivered
+ORD-0047,CUST-1215,Aarav Patel,aarav.patel63@gmail.com,2025-06-29,Body Lotion,Beauty,1,₹999,₹999,Delhi,credit card,Shipped
+ORD-0350,CUST-1041,Rahul Yadav,rahul.yadav179@gmail.com,28/04/2025,Perfume,Beauty,1,1299,"1,299",Mumbai,Credit Card,DELIVERED
+ORD-0196,CUST-1155,Rahul Singh,rahul.singh522@gmail.com,27/06/2025,Excel Guide,Books,4,"₹2,499",₹ 9996,Mumbai,upi,Pending
+ORD-0700,CUST-1174,Aditya Yadav,aditya.yadav114@gmail.com,2025-12-31,Keyboard,Electronics,4,499,"₹1,996",Jaipur,debit card,pending
+ORD-0838,CUST-1120,Simran Verma,simran.verma284@gmail.com,"May 21, 2025",Table Lamp,Home,1,"INR 2,499","₹2,499",Bangalore,cod,shipped
+ORD-0740,CUST-1104,Vikas Jain,vikas.jain315@gmail.com,2025-10-20,Power Bank,Electronics,2,₹799,"1,598",New Delhi,cod,DELIVERED
+ORD-0264,CUST-1033,Sneha Mishra,sneha.mishra815@gmail.com,2025-07-02,Body Lotion,Beauty,2,2499,"INR 4,998",Bengaluru,Debit Card,shipped
+ORD-0444,CUST-1046,Aarav Mishra,aarav.mishra868@gmail.com,05-11-2025,Headphones,Electronics,1,299,₹299,Delhi,upi,pending
+ORD-0679,CUST-1059,Karan Mishra,karan.mishra785@gmail.com,02/12/2025,Sneakers,Fashion,3,₹ 799,2397,delhi,Cash on Delivery,Shipped
+ORD-0305,CUST-1076,Vikas Verma,vikas.verma982@gmail.com,16/02/2025,Wireless Mouse,Electronics,5,"₹1,999","9,995",jaipur ,credit card,Cancelled
+ORD-0342,CUST-1119,Priya Gupta,priya.gupta739@gmail.com,"Nov 25, 2025",Shampoo,Beauty,1,599,599,delhi,debit card,Cancelled
+ORD-0602,CUST-1030,Nitin Mishra,nitin.mishra842@gmail.com,10-05-2025,Lip Balm,Beauty,1,999,999,New Delhi,cod,Delivered
+ORD-0970,CUST-1004,Nitin Mishra,nitin.mishra765@gmail.com,09-01-2025,Power Bank,Electronics,3,399,"INR 1,197",Jaipur,debit card,cancelled
+ORD-0150,CUST-1035,Vikas Mishra,vikas.mishra913@gmail.com,"Dec 01, 2025",T-Shirt,Fashion,1,499,499,Delhi,upi,pending
+ORD-0125,CUST-1029,Aarav Singh,aarav.singh29@gmail.com,2025-05-12,Wall Clock,Home,4,"INR 1,599",6396,Lucknow,cod,pending
+ORD-0790,CUST-1237,Rohan Gupta,rohan.gupta114@gmail.com,25-05-2025, face wash ,Beauty,4,₹299,1196,Bangalore,upi,Pending
+ORD-0826,CUST-1051,Nitin Kumar,nitin.kumar882@gmail.com,2025-08-04,Perfume,Beauty,5,INR 199,₹ 995,pune,Cash on Delivery,delivered
+ORD-0051,CUST-1199,Neha Yadav,neha.yadav734@gmail.com,"Mar 20, 2025",Lip Balm,Beauty,1,INR 799,799,jaipur ,Debit Card,cancelled
+ORD-0354,CUST-1097,Aditya Verma,aditya.verma648@gmail.com,04-12-2025,Wall Clock,Home,5,INR 299,"1,495",Pune,upi,Shipped
+ORD-0931,CUST-1242,Aarav Patel,aarav.patel560@gmail.com,10/04/2025,Data Analytics,Books,1,₹ 1599,"₹1,599",Bangalore,credit card,shipped
+ORD-0143,CUST-1129,Rohan Kumar,rohan.kumar211@gmail.com,22-11-2025,Bedsheet,Home,5,INR 499,"2,495",Jaipur,cod,delivered
+ORD-0471,CUST-1180,Sneha Sharma,sneha.sharma10@gmail.com,27-12-2025,Bedsheet,Home,1,₹599,599,Delhi,credit card,pending
+ORD-0400,CUST-1186,Neha Patel,neha.patel817@gmail.com,27-11-2025,Keyboard,Electronics,4,₹ 399,"INR 1,596",Delhi,Cash on Delivery,Pending
+ORD-0629,CUST-1125,Nitin Jain,nitin.jain460@gmail.com,"Dec 19, 2025",Body Lotion,Beauty,5,₹ 999,"INR 4,995",delhi,cod,DELIVERED
+ORD-0321,CUST-1139,Sneha Gupta,sneha.gupta215@gmail.com,18-04-2025,Excel Guide,Books,6,"2,499","INR 14,994",Lucknow,Credit Card,cancelled
+ORD-0020,CUST-1049,Karan Kumar,karan.kumar958@gmail.com,21-08-2025,Keyboard,Electronics,4,₹ 199,796,jaipur ,COD,DELIVERED
+ORD-0881,CUST-1037,Aditya Yadav,aditya.yadav889@gmail.com,03/12/2025,Table Lamp,Home,5,₹ 499,"INR 2,495",jaipur ,UPI,DELIVERED
+ORD-0794,CUST-1128,Karan Yadav,karan.yadav720@gmail.com,31-07-2025,Body Lotion,Beauty,3,INR 999,"INR 2,997",Bengaluru,Cash on Delivery,cancelled
+ORD-0812,CUST-1116,Nitin Verma,nitin.verma461@gmail.com,07-07-2025,Hoodie,Fashion,4,"1,599","₹6,396",jaipur ,Cash on Delivery,cancelled
+ORD-0408,CUST-1192,Priya Gupta,priya.gupta548@gmail.com,2025-12-03,Keyboard,Electronics,5,799,"INR 3,995",pune,cod,pending
+ORD-0538,CUST-1132,Aarav Kumar,aarav.kumar379@gmail.com,03-08-2025,Shampoo,Beauty,3,₹299,897,mumbai ,cod,delivered
+ORD-0696,CUST-1005,Aarav Sharma,aarav.sharma800@gmail.com,2025-07-13,Hoodie,Fashion,1,"INR 1,599","1,599",Mumbai,credit card,delivered
+ORD-0039,CUST-1144,Rahul Patel,rahul.patel485@gmail.com,2025-01-26,Wireless Mouse,Electronics,4,₹399,₹ 1596,delhi,COD,cancelled
+ORD-0176,CUST-1089,Ananya Yadav,ananya.yadav699@gmail.com,"Oct 06, 2025",Table Lamp,Home,1,199,₹ 199,Mumbai,credit card,Cancelled
+ORD-0246,CUST-1027,Aarav Jain,aarav.jain34@gmail.com,30-04-2025,Storage Box,Home,2,₹299,598,Delhi,Cash on Delivery,shipped
+ORD-0951,CUST-1186,Rahul Gupta,rahul.gupta895@gmail.com,2025-09-08,Water Bottle,Home,1,"₹1,299","INR 1,299",Bengaluru,COD,cancelled
+ORD-0671,CUST-1224,Aarav Mishra,aarav.mishra611@gmail.com,07-04-2025,SQL Handbook,Books,6,INR 399,"2,394",Mumbai,UPI,shipped
+ORD-0758,CUST-1212,Vikas Kumar,vikas.kumar281@gmail.com,20/04/2025,Python Basics,Books,3,499,₹ 1497,Mumbai,Debit Card,cancelled
+ORD-0862,CUST-1153,Nitin Yadav,nitin.yadav448@gmail.com,21/06/2025,Hoodie,Fashion,2,INR 199,398,New Delhi,Credit Card,Delivered
+ORD-0155,CUST-1068,Neha Mehta,neha.mehta699@gmail.com,"Feb 26, 2025",Excel Guide,Books,4,199,796,Lucknow,UPI,Cancelled
+ORD-0288,CUST-1176,Aditya Jain,aditya.jain608@gmail.com,22/02/2025,Body Lotion,Beauty,6,1299,"7,794",pune,Debit Card,shipped
+ORD-0606,CUST-1112,Aarav Gupta,aarav.gupta124@gmail.com,2025-01-09,T-Shirt,Fashion,2,₹299,INR 598,Pune,Credit Card,Shipped
+ORD-0570,CUST-1035,Priya Kumar,priya.kumar485@gmail.com,"Sep 06, 2025",Keyboard,Electronics,2,₹ 199,₹398,Mumbai,Credit Card,shipped
+ORD-0747,CUST-1247,Nitin Patel,nitin.patel629@gmail.com,"Mar 25, 2025",Bedsheet,Home,5,"INR 1,999","9,995",Bengaluru,Cash on Delivery,Delivered
+ORD-0018,CUST-1114,  priya patel ,priya.patel469@gmail.com,"Mar 13, 2025",T-Shirt,Fashion,2,INR 399,798,Pune,credit card,delivered
+ORD-0128,CUST-1065,Sneha Patel,sneha.patel577@gmail.com,"Jan 11, 2025",T-Shirt,Fashion,5,₹ 1299,"₹6,495",jaipur ,Cash on Delivery,Pending
+ORD-0323,CUST-1053,Nitin Sharma,nitin.sharma214@gmail.com,2025-05-17,USB Cable,Electronics,2,199,398,delhi,UPI,shipped
+ORD-0256,CUST-1023,Aditya Mishra,aditya.mishra261@gmail.com,28-11-2025,Shampoo,Beauty,1,₹ 1599,₹ 1599,pune,COD,Delivered
+ORD-0661,CUST-1186,Aditya Gupta,aditya.gupta936@gmail.com,2025-10-21,Power Bank,Electronics,6,249,"1,494",Bangalore,Cash on Delivery,Cancelled
+ORD-0968,CUST-1010,Aditya Sharma,aditya.sharma893@gmail.com,"Aug 30, 2025",Sneakers,Fashion,6,₹ 199,"INR 1,194",Pune,cod,delivered
+ORD-0191,CUST-1062,Ananya Patel,ananya.patel303@gmail.com,"Jan 09, 2025",Wireless Mouse,Electronics,5,"INR 2,499","₹12,495",New Delhi,cod,DELIVERED
+ORD-0116,CUST-1080,Karan Kumar,karan.kumar268@gmail.com,2025-12-03,T-Shirt,Fashion,5,"1,999","₹9,995",Jaipur,Credit Card,Pending
+ORD-0799,CUST-1201,Rahul Verma,rahul.verma491@gmail.com,13-03-2025,Wireless Mouse,Electronics,5,₹ 799,₹ 3995,Lucknow,debit card,Cancelled
+ORD-0607,CUST-1121,Vikas Verma,vikas.verma495@gmail.com,05/08/2025,Data Analytics,Books,1,₹499,INR 499,delhi,COD,Cancelled
+ORD-0181,CUST-1220,Karan Verma,karan.verma317@gmail.com,2025-07-12,Excel Guide,Books,6,799,₹ 4794,Mumbai,credit card,shipped
+ORD-0302,CUST-1213,Nitin Sharma,nitin.sharma318@gmail.com,04/08/2025,Shampoo,Beauty,2,2499,"4,998",Jaipur,Credit Card,pending
+ORD-0763,CUST-1108,Karan Mehta,karan.mehta932@gmail.com,2025-01-17,T-Shirt,Fashion,2,INR 799,₹ 1598,jaipur ,Debit Card,delivered
+ORD-0716,CUST-1044,Aditya Mehta,aditya.mehta843@gmail.com,15-03-2025,Face Wash,Beauty,1,"INR 1,999",₹ 1999,Lucknow,Debit Card,Delivered
+ORD-0900,CUST-1112,Sneha Verma,sneha.verma128@gmail.com,13/08/2025,Wall Clock,Home,6,799,"4,794",Bangalore,credit card,Pending
+ORD-0689,CUST-1099,Ananya Jain,ananya.jain637@gmail.com,"Mar 31, 2025",Body Lotion,Beauty,6,"INR 2,499","INR 14,994",Jaipur,Cash on Delivery,Cancelled
+ORD-0665,CUST-1236,Aditya Kumar,aditya.kumar438@gmail.com,2025-06-18,Cap,Fashion,5,₹599,₹ 2995,Delhi,COD,Shipped
+ORD-0518,CUST-1083,Priya Verma,priya.verma352@gmail.com,03/05/2025,Python Basics,Books,5,₹ 2499,12495,Lucknow,credit card,Shipped
+ORD-0988,CUST-1009,Neha Jain,neha.jain679@gmail.com,"Apr 03, 2025",Bedsheet,Home,4,INR 249,996,mumbai ,Cash on Delivery,Cancelled
+ORD-0046,CUST-1193,Aarav Kumar,aarav.kumar398@gmail.com,2025-06-17,Shampoo,Beauty,4,₹ 299,"1,196",Bangalore,Cash on Delivery,shipped
+ORD-0913,CUST-1030,Ananya Kumar,ananya.kumar899@gmail.com,2025-09-11,USB Cable,Electronics,2,INR 499,INR 998,delhi,UPI,Shipped
+ORD-0158,CUST-1050,Rahul Yadav,rahul.yadav944@gmail.com,30-09-2025,Perfume,Beauty,4,599,"2,396",jaipur ,Debit Card,Cancelled
+ORD-0967,CUST-1012,Neha Kumar,neha.kumar524@gmail.com,07-01-2025,Excel Guide,Books,3,₹249,747,jaipur ,COD,pending
+ORD-0172,CUST-1208,Neha Patel,neha.patel462@gmail.com,2025-03-01,AI Fundamentals,Books,2,299,₹ 598,New Delhi,cod,Cancelled
+ORD-0017,CUST-1104,Rohan Jain,rohan.jain372@gmail.com,"Aug 05, 2025",Lip Balm,Beauty,2,₹ 249,₹498,jaipur ,upi,Delivered
+ORD-0512,CUST-1234,Simran Jain,simran.jain763@gmail.com,2025-05-07,Lip Balm,Beauty,N/A,199,₹ 597,Jaipur,credit card,DELIVERED
+ORD-0049,CUST-1179,Aarav Kumar,aarav.kumar599@gmail.com,"Dec 13, 2025",Bedsheet,Home,1,₹ 1599,"INR 1,599",New Delhi,credit card,delivered
+ORD-0975,CUST-1179,Aditya Mehta,aditya.mehta433@gmail.com,2025-04-26,Jeans,Fashion,3,299,INR 897,delhi,Debit Card,shipped
+ORD-0844,CUST-1209,Sneha Kumar,sneha.kumar743@gmail.com,08/11/2025,Storage Box,Home,2,249,₹ 498,jaipur ,Cash on Delivery,Pending
+ORD-0516,CUST-1159,Neha Patel,neha.patel43@gmail.com,"Jun 01, 2025",Wireless Mouse,Electronics,4,"2,499",9996,pune,credit card,delivered
+ORD-0690,CUST-1233,Simran Sharma,simran.sharma255@gmail.com,22-03-2025,Storage Box,Home,1,799,799,jaipur ,upi,Shipped
+ORD-0481,CUST-1022,Neha Verma,neha.verma277@gmail.com,2025-12-25,Data Analytics,Books,6,₹ 999,"INR 5,994",pune,UPI,Pending
+ORD-0284,CUST-1046,Vikas Patel,vikas.patel416@gmail.com,22/11/2025,Jeans,Fashion,3,₹599,"INR 1,797",Bangalore,COD,Cancelled
+ORD-0722,CUST-1007,Karan Mishra,karan.mishra68@gmail.com,02-07-2025,Bedsheet,Home,6,₹799,"₹4,794",Pune,Cash on Delivery,DELIVERED
+ORD-0658,CUST-1027,Simran Singh,simran.singh811@gmail.com,07/03/2025,Wireless Mouse,Electronics,4,₹ 599,"₹2,396",mumbai ,Cash on Delivery,delivered
+ORD-0226,CUST-1212,Simran Singh,simran.singh758@gmail.com,23-08-2025,Body Lotion,Beauty,5,₹199,995,Bengaluru,credit card,pending
+ORD-0027,,Aarav Singh,aarav.singh659@gmail.com,05-08-2025,Cap,Fashion,4,₹499,"₹1,996",Bangalore,Credit Card,shipped
+ORD-0786,CUST-1246,Nitin Sharma,nitin.sharma145@gmail.com,08/05/2025,Face Wash,Beauty,1,199,INR 199,jaipur ,UPI,Delivered
+ORD-0438,CUST-1046,Rohan Verma,rohan.verma807@gmail.com,2025-10-27,Face Wash,Beauty,6,₹ 1299,₹ 7794,Bangalore,COD,Delivered
+ORD-0955,CUST-1076,Rahul Patel,rahul.patel508@gmail.com,"Mar 13, 2025",Wireless Mouse,Electronics,4,₹ 999,"₹3,996",mumbai ,upi,pending
+ORD-0365,CUST-1023,Simran Gupta,simran.gupta639@gmail.com,28/03/2025,Power Bank,Electronics,5,"1,299","INR 6,495",jaipur ,UPI,DELIVERED
+ORD-0230,CUST-1221,Aditya Gupta,aditya.gupta541@gmail.com,"Dec 15, 2025",Wall Clock,Home,1,₹299,₹299,Lucknow,debit card,delivered
+ORD-0038,CUST-1168,Vikas Jain,vikas.jain917@gmail.com,2025-11-19,Wall Clock,Home,5,₹ 249,₹ 1245,Bengaluru,credit card,DELIVERED
+ORD-0969,CUST-1081,Rahul Verma,rahul.verma901@gmail.com,09/03/2025,T-Shirt,Fashion,5,₹ 2499,"₹12,495",Delhi,COD,Delivered
+ORD-0375,CUST-1157,Simran Sharma,simran.sharma22@gmail.com,2025-12-12,Power Bank,Electronics,4,₹ 599,2396,New Delhi,debit card,Pending
+ORD-0470,CUST-1217,Nitin Kumar,nitin.kumar950@gmail.com,11-08-2025,Bedsheet,Home,3,"₹1,599",4797,Delhi,cod,pending
+ORD-0971,CUST-1071,Aarav Singh,aarav.singh207@gmail.com,2025-09-14,Lip Balm,Beauty,6,"1,999","₹11,994",delhi,COD,Delivered
+ORD-0854,CUST-1049,Rahul Gupta,rahul.gupta948@gmail.com,"Jul 06, 2025",Shampoo,Beauty,5,₹ 249,1245,pune,credit card,pending
+ORD-0708,CUST-1130,Ananya Yadav,ananya.yadav91@gmail.com,"Jul 04, 2025",SQL Handbook,Books,6,₹ 399,"INR 2,394",Pune,COD,pending
+ORD-0729,CUST-1147,Priya Kumar,priya.kumar128@gmail.com,29/05/2025,Perfume,Beauty,4,₹399,"₹1,596",Bangalore,credit card,delivered
+ORD-0195,CUST-1174,Priya Mishra,priya.mishra157@gmail.com,"Dec 31, 2025",Keyboard,Electronics,3,₹199,597,delhi,credit card,pending
+ORD-0858,CUST-1246,Aditya Kumar,aditya.kumar552@gmail.com,"Nov 08, 2025",Jeans,Fashion,4,299,₹ 1196,New Delhi,UPI,Shipped
+ORD-0868,CUST-1029,Aditya Patel,aditya.patel728@gmail.com,25/06/2025,Sneakers,Fashion,2,₹ 199,₹ 398,Jaipur,debit card,shipped
+ORD-0504,CUST-1119,Sneha Gupta,sneha.gupta206@gmail.com,02/03/2025,Sneakers,Fashion,4,199,796,pune,cod,Shipped
+ORD-0973,CUST-1202,Rohan Singh,rohan.singh950@gmail.com,2025-02-16,Python Basics,Books,5,₹999,"INR 4,995",Bangalore,UPI,DELIVERED
+ORD-0834,CUST-1026,Ananya Kumar,ananya.kumar926@gmail.com,03/04/2025,Python Basics,Books,1,₹299,₹ 299,Bangalore,credit card,pending
+ORD-0580,CUST-1203,Neha Mishra,neha.mishra94@gmail.com,2025-02-26,Shampoo,Beauty,6,INR 499,2994,Lucknow,Credit Card,pending
+ORD-0972,CUST-1120,Karan Verma,karan.verma660@gmail.com,02-01-2025,Data Analytics,Books,6,"1,299",7794,Bangalore,upi,Pending
+ORD-0163,CUST-1167,Vikas Yadav,vikas.yadav676@gmail.com,13-04-2025,Data Analytics,Books,4,"1,999","7,996",jaipur ,UPI,delivered
+ORD-0706,CUST-1061,Nitin Verma,nitin.verma970@gmail.com,2025-04-15,Face Wash,Beauty,2,₹199,INR 398,Jaipur,cod,Shipped
+ORD-0153,CUST-1039,Karan Patel,karan.patel51@gmail.com,24/01/2025,Table Lamp,Home,5,"INR 1,299","6,495",Pune,cod,Cancelled
+ORD-0685,CUST-1044,Priya Kumar,priya.kumar685@gmail.com,26/09/2025,USB Cable,Electronics,3,₹ 399,"₹1,197",Bangalore,cod,Delivered
+ORD-0704,CUST-1139,Sneha Jain,sneha.jain673@gmail.com,28/05/2025,Sneakers,Fashion,6,INR 199,"1,194",Bangalore,credit card,Shipped
+ORD-0759,CUST-1090,Aarav Mehta,aarav.mehta16@gmail.com,"Nov 12, 2025",USB Cable,Electronics,5,999,"4,995",Bangalore,upi,Delivered
+ORD-0112,CUST-1020,Neha Patel,neha.patel85@gmail.com,,Sneakers,Fashion,5,₹ 199,₹995,Delhi,debit card,shipped
+ORD-0227,CUST-1026,Ananya Mehta,ananya.mehta570@gmail.com,2025-10-23,Wall Clock,Home,3,599,₹ 1797,Bangalore,UPI,Delivered
+ORD-0765,CUST-1073,Priya Sharma,priya.sharma704@gmail.com,"Jun 25, 2025",Cap,Fashion,1,1999,"₹1,999",Bengaluru,COD,shipped
+ORD-0104,CUST-1154,Rohan Kumar,rohan.kumar704@gmail.com,"Dec 14, 2025",Python Basics,Books,3,799,"2,397",Delhi,credit card,pending
+ORD-0422,CUST-1124,Vikas Sharma,vikas.sharma349@gmail.com,2025-04-18,T-Shirt,Fashion,3,INR 999,2997,pune,Debit Card,cancelled
+ORD-0420,CUST-1113,Priya Mehta,priya.mehta362@gmail.com,01/11/2025,Lip Balm,Beauty,3,599,"INR 1,797",Bangalore,COD,DELIVERED
+ORD-0754,CUST-1247,Priya Singh,priya.singh179@gmail.com,22/10/2025,Wireless Mouse,Electronics,1,"₹2,499","2,499",pune,COD,Delivered
+ORD-0587,CUST-1156,Ananya Singh,ananya.singh107@gmail.com,13/10/2025,Lip Balm,Beauty,6,"₹1,599","9,594",Mumbai,COD,Pending
+ORD-0784,CUST-1176,Aditya Yadav,aditya.yadav975@gmail.com,03-04-2025,Shampoo,Beauty,2,₹399,798,delhi,Credit Card,pending
+ORD-0673,CUST-1054,Simran Mehta,simran.mehta548@gmail.com,"Dec 22, 2025",SQL Handbook,Books,2,₹ 599,₹ 1198,mumbai ,Cash on Delivery,Delivered
+ORD-0120,CUST-1137,Aarav Jain,aarav.jain383@gmail.com,2025-12-13,Data Analytics,Books,6,₹ 999,5994,mumbai ,COD,Shipped
+ORD-0054,CUST-1076,Simran Jain,simran.jain510@gmail.com,2025-10-12,Data Analytics,Books,1,₹ 399,₹ 399,Pune,UPI,delivered
+ORD-0152,CUST-1194,Nitin Mishra,nitin.mishra131@gmail.com,07/03/2025,Perfume,Beauty,3,₹ 1599,"4,797",Bangalore,cod,Pending
+ORD-0404,CUST-1214,Aditya Kumar,aditya.kumar340@gmail.com,29-07-2025,SQL Handbook,Books,5,₹299,"₹1,495",pune,upi,Delivered
+ORD-0949,CUST-1196,Ananya Patel,ananya.patel528@gmail.com,"May 06, 2025",Perfume,Beauty,3,₹999,₹ 2997,Lucknow,Cash on Delivery,Pending
+ORD-0208,CUST-1067,Aditya Sharma,aditya.sharma586@gmail.com,"Nov 27, 2025",Bedsheet,Home,2,"1,999",₹ 3998,New Delhi,UPI,delivered
+ORD-0659,CUST-1099,Karan Jain,karan.jain108@gmail.com,"Nov 13, 2025",Power Bank,Electronics,1,INR 499,499,jaipur ,UPI,Cancelled
+ORD-0847,CUST-1103,Nitin Sharma,nitin.sharma81@gmail.com,29/08/2025,AI Fundamentals,Books,1,₹ 599,599,mumbai ,debit card,Pending
+ORD-0766,CUST-1171,Aditya Verma,aditya.verma756@gmail.com,2025-09-19,Face Wash,Beauty,4,INR 399,"1,596",New Delhi,Debit Card,Shipped
+ORD-0009,CUST-1153,Aarav Singh,aarav.singh166@gmail.com,2025-11-18,Storage Box,Home,4,₹ 249,996,New Delhi,Cash on Delivery,pending
+ORD-0811,CUST-1094,Rahul Yadav,rahul.yadav274@gmail.com,31-08-2025,Sneakers,Fashion,1,₹ 249,INR 249,New Delhi,COD,Delivered
+ORD-0037,CUST-1012,Nitin Mishra,nitin.mishra353@gmail.com,2025-02-17,Water Bottle,Home,3,"1,299","INR 3,897",Mumbai,Credit Card,Delivered
+ORD-0453,CUST-1087,Aarav Gupta,aarav.gupta601@gmail.com,17-12-2025,Excel Guide,Books,5,"1,299","₹6,495",delhi,Debit Card,Delivered
+ORD-0652,CUST-1175,Aditya Gupta,aditya.gupta912@gmail.com,25-09-2025,Water Bottle,Home,2,INR 499,₹998,Lucknow,cod,shipped
+ORD-0254,CUST-1044,Nitin Yadav,nitin.yadav838@gmail.com,07/03/2025,Wireless Mouse,Electronics,1,399,₹399,Delhi,COD,Delivered
+ORD-0304,CUST-1004,Ananya Verma,ananya.verma50@gmail.com,"Oct 08, 2025",Bedsheet,Home,6,INR 799,₹ 4794,Bangalore,credit card,Delivered
+ORD-0750,CUST-1044,Sneha Mehta,sneha.mehta727@gmail.com,20-10-2025,Cap,Fashion,4,249,996,Jaipur,upi,Delivered
+ORD-0572,CUST-1134,Nitin Singh,nitin.singh416@gmail.com,2025-03-13,USB Cable,Electronics,3,"₹1,999",5997,Lucknow,cod,delivered
+ORD-0624,CUST-1029,Nitin Verma,nitin.verma33@gmail.com,15-01-2025,Excel Guide,Books,5,INR 599,"2,995",Lucknow,Cash on Delivery,cancelled
+ORD-0713,CUST-1179,Nitin Jain,nitin.jain958@gmail.com,2025-08-06,Body Lotion,Beauty,6,INR 199,₹ 1194,Delhi,debit card,Delivered
+ORD-0723,CUST-1164,Simran Gupta,simran.gupta387@gmail.com,"Aug 20, 2025",Python Basics,Books,5,499,₹ 2495,jaipur ,credit card,Delivered
+ORD-0263,CUST-1203,Simran Jain,simran.jain610@gmail.com,21-02-2025,Excel Guide,Books,1,599,599,delhi,Credit Card,pending
+ORD-0611,CUST-1034,Simran Gupta,simran.gupta490@gmail.com,"Jun 26, 2025",Face Wash,Beauty,2,INR 499,998,Mumbai,debit card,Cancelled
+ORD-0298,CUST-1187,Karan Patel,karan.patel612@gmail.com,2025-06-06,Sneakers,Fashion,2,₹249,₹498,mumbai ,Debit Card,Cancelled
+ORD-0415,CUST-1014,Neha Mehta,neha.mehta910@gmail.com,"Aug 11, 2025",SQL Handbook,Books,1,₹199,INR 199,Lucknow,UPI,pending
+ORD-0151,CUST-1130,Aarav Jain,aarav.jain62@gmail.com,2025-10-19,Sneakers,Fashion,4,599,2396,mumbai ,upi,pending
+ORD-0890,CUST-1052,Nitin Mishra,nitin.mishra579@gmail.com,2025-04-13,USB Cable,Electronics,4,299,₹ 1196,Pune,Debit Card,Shipped
+ORD-0641,CUST-1069,Aarav Gupta,aarav.gupta255@gmail.com,2025-11-02,Sneakers,Fashion,4,₹ 249,996,pune,Cash on Delivery,delivered
+ORD-0893,CUST-1077,Rohan Yadav,rohan.yadav447@gmail.com,"Nov 17, 2025",Cap,Fashion,5,₹299,1495,New Delhi,Credit Card,cancelled
+ORD-0551,CUST-1094,Rohan Singh,rohan.singh156@gmail.com,"Jul 22, 2025",Perfume,Beauty,6,1999,"₹11,994",Lucknow,Credit Card,delivered
+ORD-0833,CUST-1238,Ananya Sharma,ananya.sharma291@gmail.com,2025-02-12,Data Analytics,Books,6,₹799,4794,New Delhi,upi,Cancelled
+ORD-0489,CUST-1016,Nitin Mehta,nitin.mehta273@gmail.com,24/03/2025,Body Lotion,Beauty,4,"2,499","₹9,996",Bengaluru,Cash on Delivery,Pending
+ORD-0148,CUST-1196,Karan Mishra,karan.mishra438@gmail.com,2025-05-08,Water Bottle,Home,1,499,499,Lucknow,debit card,Shipped
+ORD-0147,CUST-1064,Neha Patel,neha.patel585@gmail.com,24-02-2025,Sneakers,Fashion,4,INR 299,₹ 1196,New Delhi,Debit Card,Cancelled
+ORD-0724,CUST-1110,Aarav Mehta,aarav.mehta704@gmail.com,2025-08-16,T-Shirt,Fashion,6,599,₹ 3594,Bengaluru,upi,Pending
+ORD-0935,CUST-1188,Aditya Jain,aditya.jain903@gmail.com,2025-04-23,Wireless Mouse,Electronics,2,299,₹ 598,delhi,COD,DELIVERED
+ORD-0825,CUST-1163,Rohan Singh,rohan.singh675@gmail.com,"Jan 09, 2025",Cap,Fashion,1,₹249,₹ 249,Lucknow,cod,delivered
+ORD-0660,CUST-1027,Rohan Mehta,rohan.mehta676@gmail.com,12/12/2025,Lip Balm,Beauty,5,₹ 1599,7995,Bangalore,credit card,delivered
+ORD-0349,CUST-1203,Rohan Patel,rohan.patel267@gmail.com,2025-07-12,Body Lotion,Beauty,5,1999,₹ 9995,Bangalore,debit card,Cancelled
+ORD-0464,CUST-1090,Rahul Mehta,rahul.mehta817@gmail.com,"Jun 16, 2025",Excel Guide,Books,3,₹ 799,"₹2,397",New Delhi,COD,delivered
+ORD-0326,CUST-1247,Aditya Gupta,aditya.gupta804@gmail.com,10-04-2025,Cap,Fashion,5,₹ 2499,"INR 12,495",jaipur ,upi,DELIVERED
+ORD-0187,CUST-1146,Aditya Mishra,aditya.mishra747@gmail.com,02-08-2025,Water Bottle,Home,3,"INR 1,299","INR 3,897",Bangalore,credit card,pending
+ORD-0124,CUST-1179,Priya Sharma,priya.sharma336@gmail.com,20-02-2025,Wall Clock,Home,1,INR 599,INR 599,Delhi,Debit Card,Cancelled
+ORD-0892,CUST-1091,Neha Verma,neha.verma708@gmail.com,"Nov 25, 2025",Perfume,Beauty,5,INR 249,"INR 1,245",Jaipur,COD,cancelled
+ORD-0609,CUST-1183,Sneha Kumar,sneha.kumar47@gmail.com,"Sep 07, 2025",Perfume,Beauty,5,₹ 2499,12495,Jaipur,COD,Shipped
+ORD-0144,CUST-1243,Rahul Mishra,rahul.mishra747@gmail.com,06-11-2025,Storage Box,Home,5,299,"₹1,495",Delhi,upi,Delivered
+ORD-0962,CUST-1036,Rohan Mishra,rohan.mishra160@gmail.com,2025-03-15,Water Bottle,Home,2,₹ 399,₹798,Bangalore,upi,Delivered
+ORD-0198,CUST-1082,Ananya Gupta,ananya.gupta740@gmail.com,07/02/2025,SQL Handbook,Books,1,"1,599","INR 1,599",Bengaluru,Credit Card,pending
+ORD-0610,CUST-1115,Aditya Mehta,aditya.mehta576@gmail.com,02-02-2025,Power Bank,Electronics,1,₹ 799,₹ 799,New Delhi,COD,Pending
+ORD-0280,CUST-1230,Aditya Jain,aditya.jain49@gmail.com,22-07-2025,Hoodie,Fashion,2,"INR 1,599","₹3,198",Lucknow,COD,shipped
+ORD-0294,CUST-1146,Karan Patel,karan.patel315@gmail.com,31/07/2025,Storage Box,Home,1,"INR 1,999","INR 1,999",Mumbai,debit card,pending
+ORD-0401,CUST-1083,Simran Yadav,simran.yadav582@gmail.com,"May 31, 2025",Bedsheet,Home,1,INR 999,999,delhi,cod,Pending
+ORD-0123,CUST-1096,Rohan Gupta,rohan.gupta846@gmail.com,19-08-2025,Perfume,Beauty,2,₹799,₹ 1598,Delhi,Cash on Delivery,cancelled
+ORD-0184,CUST-1179,Priya Mehta,priya.mehta320@gmail.com,2025-01-08,AI Fundamentals,Books,2,INR 999,"₹1,998",Lucknow,COD,Shipped
+ORD-0203,CUST-1111,Rahul Kumar,rahul.kumar16@gmail.com,22-07-2025,Data Analytics,Books,4,249,₹ 996,Bangalore,COD,Pending
+ORD-0439,CUST-1022,Vikas Singh,vikas.singh266@gmail.com,2025-06-15,Perfume,Beauty,6,₹399,"₹2,394",New Delhi,COD,Pending
+ORD-0247,CUST-1180,Vikas Sharma,vikas.sharma155@gmail.com,31-12-2025,Storage Box,Home,2,₹799,"₹1,598",Mumbai,cod,pending
+ORD-0416,CUST-1193,Sneha Mishra,sneha.mishra163@gmail.com,2025-06-17,Cap,Fashion,1,INR 599,₹599,jaipur ,Cash on Delivery,Cancelled
+ORD-0855,CUST-1005,Nitin Kumar,nitin.kumar984@gmail.com,23/10/2025,Headphones,Electronics,4,INR 299,₹ 1196,New Delhi,upi,Shipped
+ORD-0878,CUST-1058,Aditya Patel,aditya.patel767@gmail.com,2025-01-28,T-Shirt,Fashion,1,2499,"INR 2,499",pune,COD,DELIVERED
+ORD-0910,CUST-1093,Rohan Gupta,rohan.gupta799@gmail.com,05-10-2025,Headphones,Electronics,6,499,2994,Bengaluru,UPI,shipped
+ORD-0915,CUST-1147,Rohan Singh,rohan.singh529@gmail.com,16/08/2025,Power Bank,Electronics,2,599,"₹1,198",Mumbai,credit card,Pending
+ORD-0891,CUST-1199,Rohan Mishra,rohan.mishra34@gmail.com,19/11/2025,Wall Clock,Home,5,INR 399,"₹1,995",delhi,UPI,Pending
+ORD-0130,CUST-1203,Nitin Verma,nitin.verma840@gmail.com,11/03/2025,Wall Clock,Home,6,₹ 999,"₹5,994",mumbai ,credit card,Delivered
+ORD-0638,CUST-1082,Aditya Sharma,aditya.sharma513@gmail.com,12-01-2025,AI Fundamentals,Books,3,₹ 799,"INR 2,397",Bengaluru,UPI,cancelled
+ORD-0403,CUST-1049,Aarav Mishra,aarav.mishra887@gmail.com,2025-07-06,SQL Handbook,Books,6,299,"₹1,794",jaipur ,cod,pending
+ORD-0788,CUST-1027,Simran Kumar,simran.kumar652@gmail.com,06/10/2025,Table Lamp,Home,1,"₹1,299","₹1,299",New Delhi,cod,shipped
+ORD-0774,CUST-1229,Priya Patel,priya.patel748@gmail.com,20/03/2025,Sneakers,Fashion,6,INR 999,"INR 5,994",Bengaluru,cod,shipped
+ORD-0736,CUST-1244,Priya Gupta,priya.gupta762@gmail.com,30/11/2025,Body Lotion,Beauty,2,399,798,New Delhi,Credit Card,pending
+ORD-0917,CUST-1184,Neha Sharma,neha.sharma307@gmail.com,18/03/2025,Cap,Fashion,1,₹299,299,Mumbai,debit card,cancelled
+ORD-0220,CUST-1139,Simran Yadav,simran.yadav572@gmail.com,19/09/2025,Jeans,Fashion,4,1599,"₹6,396",mumbai ,cod,Pending
+ORD-0642,CUST-1064,Karan Singh,karan.singh505@gmail.com,"Jan 15, 2025",Headphones,Electronics,4,"INR 1,299","₹5,196",mumbai ,cod,delivered
+ORD-0919,CUST-1134,Nitin Patel,nitin.patel761@gmail.com,03/08/2025,Storage Box,Home,5,1599,"₹7,995",Jaipur,COD,cancelled
+ORD-0756,CUST-1045,Priya Patel,priya.patel710@gmail.com,08/11/2025,Perfume,Beauty,6,599,₹ 3594,delhi,cod,Shipped
+ORD-0810,CUST-1148,Rohan Yadav,rohan.yadav106@gmail.com,21-08-2025,Keyboard,Electronics,3,"INR 1,299","3,897",delhi,upi,shipped
+ORD-0923,CUST-1108,Rahul Mishra,rahul.mishra516@gmail.com,2025-11-20,USB Cable,Electronics,4,"INR 1,299",₹ 5196,Delhi,Credit Card,delivered
+ORD-0625,CUST-1087,Sneha Mehta,sneha.mehta136@gmail.com,25/01/2025,Headphones,Electronics,3,₹ 1999,"5,997",Jaipur,UPI,Cancelled
+ORD-0842,CUST-1032,Karan Verma,karan.verma376@gmail.com,06/05/2025,Wireless Mouse,Electronics,2,INR 599,"1,198",Bangalore,Credit Card,Pending
+ ORD-0512 ,CUST-1231,Priya Singh,priya.singh691@gmail.com,"Feb 24, 2025",Wireless Mouse,Electronics,6,299,"INR 1,794",Lucknow,credit card,delivered
+ORD-0387,CUST-1164,Sneha Yadav,sneha.yadav148@gmail.com,2025-12-24,Lip Balm,Beauty,5,499,2495,Pune,Cash on Delivery,cancelled
+ORD-0976,CUST-1138,Neha Mishra,neha.mishra382@gmail.com,"Jun 28, 2025",Body Lotion,Beauty,1,INR 999,₹999,Jaipur,Cash on Delivery,DELIVERED
+ORD-0510,CUST-1057,Aditya Sharma,aditya.sharma297@gmail.com,11/03/2025,Jeans,Fashion,1,₹ 2499,₹ 2499,Bengaluru,Credit Card,Pending
+ORD-0268,CUST-1244,Aditya Gupta,aditya.gupta176@gmail.com,20/08/2025,SQL Handbook,Books,1,₹999,999,Delhi,debit card,shipped
+ORD-0823,CUST-1110,Sneha Singh,sneha.singh726@gmail.com,"Sep 13, 2025",T-Shirt,Fashion,3,₹ 499,₹ 1497,Bangalore,debit card,cancelled
+ORD-0442,CUST-1105,Vikas Patel,vikas.patel836@gmail.com,"Jan 03, 2025",T-Shirt,Fashion,4,INR 999,"INR 3,996",Jaipur,COD,Cancelled
+ORD-0497,CUST-1190,Neha Sharma,neha.sharma425@gmail.com,2025-03-02,Wireless Mouse,Electronics,3,199,₹ 597,jaipur ,cod,DELIVERED
+ORD-0113,CUST-1155,Karan Yadav,karan.yadav604@gmail.com,11/10/2025,Power Bank,Electronics,5,₹ 1299,6495,jaipur ,credit card,Pending
+ORD-0692,CUST-1030,Nitin Yadav,nitin.yadav400@gmail.com,"Jun 25, 2025",USB Cable,Electronics,1,INR 249,₹ 249,Delhi,UPI,shipped
+ORD-0233,CUST-1247,Priya Singh,priya.singh928@gmail.com,2025-02-21,Perfume,Beauty,6,₹999,5994,Lucknow,Cash on Delivery,Pending
+ORD-0873,CUST-1077,Nitin Gupta,nitin.gupta266@gmail.com,"Mar 11, 2025",Body Lotion,Beauty,5,299,"INR 1,495",mumbai ,Debit Card,delivered
+ORD-0608,CUST-1218,Priya Kumar,priya.kumar593@gmail.com,20/07/2025,USB Cable,Electronics,5,399,"₹1,995",New Delhi,Cash on Delivery,pending
+ORD-0672,CUST-1128,Priya Singh,priya.singh813@gmail.com,29/08/2025,Storage Box,Home,5,INR 999,4995,Bengaluru,cod,Pending
+ORD-0374,CUST-1250,Karan Yadav,karan.yadav972@gmail.com,04/10/2025,Data Analytics,Books,1,1299,"1,299",Bengaluru,Credit Card,Cancelled
+ORD-0985,CUST-1103,Vikas Jain,vikas.jain861@gmail.com,2025-08-26,SQL Handbook,Books,6,₹399,₹ 2394,delhi,debit card,DELIVERED
+ORD-0846,CUST-1230,Ananya Sharma,ananya.sharma669@gmail.com,22/10/2025,Shampoo,Beauty,5,₹ 199,995,delhi,Cash on Delivery,Delivered
+ORD-0234,CUST-1049,Ananya Singh,ananya.singh264@gmail.com,11-10-2025,Body Lotion,Beauty,2,₹399,798,Mumbai,cod,cancelled
+ORD-0789,CUST-1236,Priya Sharma,priya.sharma242@gmail.com,"Aug 07, 2025",SQL Handbook,Books,2,INR 199,398,jaipur ,Debit Card,Shipped
+ord-0677,CUST-1140,Sneha Singh,sneha.singh814@gmail.com,2025-05-22,Headphones,Electronics,5,"₹1,299","₹6,495",New Delhi,debit card,Delivered
+ORD-0318,CUST-1136,Aarav Mishra,aarav.mishra136@gmail.com,"Aug 19, 2025",Bedsheet,Home,1,799,799,delhi,COD,Delivered
+ORD-0649,CUST-1195,Rahul Sharma,rahul.sharma137@gmail.com,25-08-2025,Perfume,Beauty,3,INR 799,₹ 2397,Delhi,credit card,Delivered
+ORD-0411,CUST-1153,Simran Kumar,simran.kumar378@gmail.com,"Aug 20, 2025",Data Analytics,Books,4,₹ 1299,"₹5,196",Lucknow,UPI,shipped
+ORD-0902,CUST-1169,Neha Mehta,,2025-12-02,Shampoo,Beauty,3,199,INR 597,Jaipur,Cash on Delivery,Cancelled
+ORD-0710,CUST-1040,Ananya Jain,ananya.jain585@gmail.com,"Nov 07, 2025",Lip Balm,Beauty,3,₹999,"2,997",delhi,COD,Shipped
+ORD-0359,CUST-1219,Priya Mehta,priya.mehta428@gmail.com,05/07/2025,Python Basics,Books,4,"INR 1,999",₹ 7996,jaipur ,Debit Card,shipped
+ORD-0259,CUST-1046,Priya Gupta,priya.gupta282@gmail.com,01/10/2025,Data Analytics,Books,2,INR 249,498,Bengaluru,debit card,DELIVERED
+ORD-0745,CUST-1066,Sneha Gupta,sneha.gupta615@gmail.com,03-07-2025,Jeans,Fashion,2,"INR 1,599",3198,Bengaluru,upi,cancelled
+ORD-0628,CUST-1200,Vikas Gupta,vikas.gupta466@gmail.com,09-02-2025,Wireless Mouse,Electronics,4,299,₹ 1196,Jaipur,cod,cancelled
+ORD-0633,CUST-1201,Neha Singh,neha.singh901@gmail.com,"Jan 23, 2025",Face Wash,Beauty,1,₹ 1299,1299,mumbai ,COD,Pending
+ORD-0283,CUST-1013,Sneha Mishra,sneha.mishra39@gmail.com,2025-03-30,Cap,Fashion,4,INR 299,"₹1,196",Mumbai,UPI,Cancelled
+ORD-0377,CUST-1220,Vikas Verma,vikas.verma595@gmail.com,2025-03-09,Sneakers,Fashion,4,₹499,"1,996",Mumbai,cod,pending
+ORD-0385,CUST-1080,Karan Patel,karan.patel793@gmail.com,12/02/2025,Perfume,Beauty,1,199,199,delhi,upi,pending
+ORD-0225,CUST-1117,Karan Yadav,karan.yadav87@gmail.com,21/11/2025,Excel Guide,Books,6,₹ 799,4794,Lucknow,Debit Card,Pending
+ORD-0957,CUST-1046,Priya Mehta,priya.mehta959@gmail.com,2025-03-11,Excel Guide,Books,4,999,₹ 3996,Delhi,debit card,pending
+ORD-0818,CUST-1088,Ananya Yadav,ananya.yadav902@gmail.com,2025-08-03,Headphones,Electronics,4,249,INR 996,Delhi,upi,pending
+ORD-0473,CUST-1185,Karan Verma,karan.verma305@gmail.com,2025-12-10,Storage Box,Home,4,INR 599,"₹2,396",New Delhi,UPI,DELIVERED
+ORD-0348,CUST-1168,Neha Singh,neha.singh730@gmail.com,24-09-2025,Face Wash,Beauty,1,"1,999",1999,pune,Credit Card,pending
+ORD-0506,CUST-1202,Ananya Mehta,ananya.mehta641@gmail.com,21/08/2025,Sneakers,Fashion,2,₹799,"₹1,598",pune,Credit Card,DELIVERED
+ORD-0640,CUST-1229,Neha Verma,neha.verma37@gmail.com,30-01-2025,Shampoo,beauty,1,₹ 1599,"₹1,599",Bangalore,Credit Card,pending
+ORD-0991,CUST-1202,Simran Singh,simran.singh628@gmail.com,19-08-2025,Headphones,Electronics,4,₹ 499,"1,996",pune,debit card,delivered
+ORD-0932,CUST-1068,Sneha Verma,sneha.verma860@gmail.com,21-08-2025,SQL Handbook,Books,6,₹999,"₹5,994",Pune,Cash on Delivery,Cancelled
+ORD-0909,CUST-1233,Karan Mishra,karan.mishra746@gmail.com,18-10-2025,Body Lotion,Beauty,5,INR 999,₹ 4995,Pune,credit card,DELIVERED
+ORD-0620,CUST-1112,Aarav Yadav,aarav.yadav159@gmail.com,06/01/2025,Perfume,Beauty,6,₹599,"3,594",Bangalore,Cash on Delivery,DELIVERED
+ORD-0859,CUST-1101,Aarav Mishra,aarav.mishra282@gmail.com,03/05/2025,Keyboard,Electronics,1,199,₹199,mumbai ,credit card,pending
+ORD-0807,CUST-1227,Vikas Mishra,vikas.mishra899@gmail.com,20-01-2025,Water Bottle,Home,5,INR 799,"INR 3,995",jaipur ,COD,delivered
+ORD-0646,CUST-1193,Rahul Patel,rahul.patel296@gmail.com,2025-08-10,USB Cable,Electronics,6,249,1494,Bangalore,debit card,shipped
+ORD-0850,CUST-1033,Rohan Kumar,rohan.kumar347@gmail.com,"Dec 19, 2025",Wireless Mouse,Electronics,1,499,INR 499,delhi,COD,delivered
+ORD-0557,CUST-1125,Sneha Kumar,sneha.kumar915@gmail.com,2025-12-28,Face Wash,Beauty,1,₹ 299,₹ 299,delhi,Debit Card,pending
+ORD-0961,CUST-1054,Rahul Patel,rahul.patel611@gmail.com,"Nov 27, 2025",Bedsheet,Home,5,249,1245,Jaipur,Debit Card,Cancelled
+ORD-0578,CUST-1017,Vikas Yadav,vikas.yadav764@gmail.com,31-07-2025,Face Wash,Beauty,3,₹ 249,₹747,delhi,Debit Card,cancelled
+ORD-0796,CUST-1118,Neha Patel,neha.patel495@gmail.com,10/03/2025,T-Shirt,Fashion,2,₹199,398,Bangalore,Credit Card,shipped
+ORD-0086,CUST-1084,Nitin Kumar,nitin.kumar608@gmail.com,15-07-2025,Body Lotion,Beauty,6,"₹2,499","INR 14,994",Pune,UPI,cancelled
+ORD-0243,CUST-1070,Rahul Verma,rahul.verma963@gmail.com,"Jan 19, 2025",USB Cable,Electronics,3,INR 799,"2,397",Mumbai,Cash on Delivery,Pending
+ORD-0699,CUST-1012,Nitin Mehta,nitin.mehta22@gmail.com,2025-07-19,Jeans,Fashion,1,₹ 799,INR 799,New Delhi,Debit Card,Pending
+ORD-0160,CUST-1089,Nitin Patel,nitin.patel398@gmail.com,22-07-2025,Sneakers,Fashion,1,"INR 1,599","1,599",Delhi,Debit Card,delivered
+ORD-0525,CUST-1082,Rahul Patel,rahul.patel302@gmail.com,2025-04-04,Hoodie,Fashion,2,"INR 1,599","INR 3,198",Mumbai,upi,Delivered
+ORD-0036,CUST-1122,Priya Jain,priya.jain814@gmail.com,24-10-2025,Python Basics,Books,3,₹ 499,₹ 1497,Pune,credit card,cancelled
+ORD-0541,CUST-1237,Simran Patel,simran.patel876@gmail.com,30/09/2025,Table Lamp,Home,5,₹ 1599,₹ 7995,New Delhi,upi,DELIVERED
+ORD-0171,CUST-1052,Vikas Patel,vikas.patel730@gmail.com,05/07/2025,Storage Box,Home,1,1299,"₹1,299",Delhi,cod,cancelled
+ORD-0655,CUST-1161,Simran Jain,simran.jain990@gmail.com,2025-02-08,Python Basics,Books,6,INR 399,"INR 2,394",Bangalore,Debit Card,delivered
+ORD-0894,CUST-1018,Aarav Mishra,aarav.mishra563@gmail.com,19/06/2025,Wireless Mouse,Electronics,4,INR 399,"1,596",mumbai ,Cash on Delivery,Pending
+ORD-0121,CUST-1210,Neha Mishra,neha.mishra461@gmail.com,25-08-2025, bedsheet ,Home,4,₹ 399,1596,pune,Cash on Delivery,DELIVERED
+ORD-0851,CUST-1083,Nitin Yadav,nitin.yadav694@gmail.com,2025-03-04,Jeans,Fashion,5,799,₹ 3995,jaipur ,COD,shipped
+ORD-0948,CUST-1248,Vikas Gupta,vikas.gupta112@gmail.com,"May 16, 2025",Python Basics,Books,3,₹ 499,"1,497",Bengaluru,upi,Shipped
+ORD-0734,CUST-1073,Neha Jain,neha.jain704@gmail.com,31-08-2025,Water Bottle,Home,5,₹ 799,₹ 3995,New Delhi,cod,shipped
+ORD-0096,CUST-1106,Sneha Mishra,sneha.mishra450@gmail.com,20/02/2025,AI Fundamentals,Books,3,999,"INR 2,997",Bengaluru,COD,Shipped
+ORD-0564,CUST-1206,Vikas Singh,vikas.singh870@gmail.com,2025-10-02,Sneakers,Fashion,4,399,"1,596",Delhi,Debit Card,pending
+ORD-0241,CUST-1128,Sneha Singh,sneha.singh279@gmail.com,31/12/2025,Headphones,Electronics,4,₹ 499,₹ 1996,pune,debit card,Delivered
+ORD-0743,CUST-1169,Rahul Jain,rahul.jain977@gmail.com,03/12/2025,Excel Guide,Books,3,"INR 1,299","3,897",Delhi,cod,shipped
+ORD-0575,CUST-1006,Vikas Gupta,vikas.gupta996@gmail.com,2025-05-23,Headphones,Electronics,5,799,₹ 3995,Lucknow,debit card,shipped
+ORD-0691,CUST-1130,Neha Singh,neha.singh783@gmail.com,23-02-2025,Lip Balm,Beauty,5,₹ 249,₹ 1245,delhi,Debit Card,Shipped
+ORD-0461,CUST-1101,Rahul Sharma,rahul.sharma492@gmail.com,12/12/2025,Cap,Fashion,4,₹199,₹ 796,Delhi,upi,pending
+ORD-0554,CUST-1078,Aarav Singh,aarav.singh520@gmail.com,14/12/2025,Water Bottle,Home,1,"INR 2,499",₹ 2499,Jaipur,debit card,DELIVERED
+ORD-0882,CUST-1095,Simran Patel,simran.patel215@gmail.com,"Sep 01, 2025",Table Lamp,Home,5,"2,499","12,495",jaipur ,upi,Cancelled
+ORD-0207,CUST-1028,Karan Patel,karan.patel528@gmail.com,"Dec 21, 2025",Perfume,Beauty,4,1599,"₹6,396",Bangalore,cod,delivered
+ORD-0393,CUST-1127,Rohan Kumar,rohan.kumar285@gmail.com,"Mar 06, 2025",Power Bank,Electronics,1,₹299,INR 299,New Delhi,Credit Card,Delivered
+ORD-0795,CUST-1061,Sneha Gupta,sneha.gupta403@gmail.com,"Feb 12, 2025",AI Fundamentals,Books,4,1299,5196,Lucknow,credit card,delivered
+ORD-0398,CUST-1096,Ananya Mishra,ananya.mishra132@gmail.com,2025-07-22,Body Lotion,Beauty,1,₹299,₹299,Jaipur,COD,DELIVERED
+ORD-0767,CUST-1103,Rohan Patel,rohan.patel635@gmail.com,2025-04-03,Shampoo,Beauty,4,2499,"INR 9,996",Mumbai,upi,DELIVERED
+ORD-0852,CUST-1055,Ananya Singh,ananya.singh371@gmail.com,2025-10-13,Shampoo,Beauty,1,INR 499,₹499,New Delhi,COD,Delivered
+ORD-0218,CUST-1176,Neha Sharma,neha.sharma506@gmail.com,2025-03-11,Hoodie,Fashion,5,₹ 199,995,pune,COD,pending
+ORD-0005,CUST-1095,Ananya Singh,ananya.singh885@gmail.com,30/04/2025,Wireless Mouse,Electronics,6,₹ 399,"2,394",Pune,debit card,DELIVERED
+ORD-0769,CUST-1242,Vikas Sharma,vikas.sharma532@gmail.com,07/08/2025,Table Lamp,Home,3,799,"₹2,397",mumbai ,debit card,shipped
+ORD-0643,CUST-1138,Karan Yadav,karan.yadav95@gmail.com,2025-11-22,Data Analytics,Books,3,"INR 1,599","4,797",pune,Credit Card,Shipped
+ORD-0901,CUST-1033,Aditya Sharma,aditya.sharma242@gmail.com,31/07/2025,Keyboard,Electronics,2,₹249,INR 498,Delhi,upi,Delivered
+ORD-0613,CUST-1005,Vikas Singh,vikas.singh822@gmail.com,"Aug 01, 2025",Table Lamp,Home,2,"1,599","INR 3,198",Mumbai,cod,Delivered
+ORD-0739,CUST-1178,Rohan Singh,rohan.singh134@gmail.com,2025-09-08,Body Lotion,Beauty,1,₹249,249,Jaipur,COD,shipped
+ORD-0547,CUST-1047,Simran Singh,simran.singh956@gmail.com,"Apr 20, 2025",Jeans,Fashion,5,199,995,delhi,COD,delivered
+ORD-0726,CUST-1044,Sneha Yadav,sneha.yadav182@gmail.com,17/08/2025,Face Wash,Beauty,3,₹ 1999,5997,Mumbai,credit card,Shipped
+ORD-0684,CUST-1051,Rohan Verma,rohan.verma116@gmail.com,2025-12-12,SQL Handbook,Books,6,₹499,2994,Pune,UPI,DELIVERED
+ORD-0099,CUST-1058,Ananya Mishra,ananya.mishra329@gmail.com,30/06/2025,Hoodie,Fashion,6,199,1194,Mumbai,Credit Card,Cancelled
+ORD-0805,CUST-1246,Aditya Yadav,aditya.yadav56@gmail.com,25-01-2025,Power Bank,Electronics,5,₹199,995,Delhi,debit card,shipped
+ORD-0728,CUST-1097,Simran Yadav,simran.yadav102@gmail.com,21-12-2025,Keyboard,Electronics,5,"INR 1,999",9995,Jaipur,upi,Pending
+ORD-0574,CUST-1096,Rahul Gupta,rahul.gupta291@gmail.com,"Aug 14, 2025",Shampoo,Beauty,2,249,498,Delhi,COD,cancelled
+ORD-0407,CUST-1025,Aarav Mishra,aarav.mishra282@gmail.com,28/09/2025,SQL Handbook,Books,3,"₹2,499","7,497",New Delhi,credit card,cancelled
+ORD-0503,CUST-1161,Priya Verma,priya.verma635@gmail.com,21/12/2025,Cap,Fashion,4,799,"INR 3,196",Lucknow,COD,delivered
+ORD-0048,CUST-1200,Rahul Yadav,rahul.yadav695@gmail.com,2025-02-28,Power Bank,Electronics,2,₹ 399,798,Bangalore,Credit Card,delivered
+ORD-0033,CUST-1182,Simran Mehta,simran.mehta456@gmail.com,07/11/2025,Power Bank,Electronics,4,₹ 599,2396,Mumbai,Debit Card,Delivered
+ORD-0780,CUST-1185,Nitin Mehta,nitin.mehta657@gmail.com,06-11-2025,Storage Box,Home,1,199,₹199,Lucknow,cod,shipped
+ORD-0840,CUST-1052,Karan Mishra,karan.mishra775@gmail.com,20-05-2025,Wall Clock,Home,4,999,"₹3,996",Jaipur,Cash on Delivery,pending
+ORD-0201,CUST-1069,Sneha Gupta,sneha.gupta595@gmail.com,2025-09-24,Lip  Balm,Beauty,1,₹ 2499,"INR 2,499",delhi,Debit Card,shipped
+ORD-0135,CUST-1033,Karan Mehta,karan.mehta535@gmail.com,2025-12-14,Wireless Mouse,Electronics,6,"₹1,999","INR 11,994",Jaipur,COD,Delivered
+ORD-0028,CUST-1111,Sneha Sharma,sneha.sharma124@gmail.com,2025-02-08,Perfume,Beauty,6,799,"₹4,794",Bangalore,cod,DELIVERED
+ORD-0884,CUST-1003,Nitin Mishra,nitin.mishra465@gmail.com,22-01-2025,Excel Guide,Books,1,"INR 1,999",₹ 1999,Lucknow,COD,shipped
+ORD-0231,CUST-1199,Priya Jain,priya.jain101@gmail.com,22/02/2025,Shampoo,Beauty,4,249,996,mumbai ,Credit Card,pending
+ORD-0490,CUST-1197,Rohan Yadav,rohan.yadav960@gmail.com,"Apr 13, 2025",Sneakers,Fashion,2,INR 999,₹ 1998,New Delhi,Credit Card,cancelled
+ORD-0773,CUST-1159,Aditya Singh,aditya.singh52@gmail.com,2025-10-28,Keyboard,Electronics,6,"INR 2,499",₹ 14994,New Delhi,upi,cancelled
+ORD-0379,CUST-1215,Sneha Mishra,sneha.mishra58@gmail.com,23/07/2025,Hoodie,Fashion,3,INR 499,"₹1,497",Mumbai,Debit Card,Cancelled
+ORD-0289,CUST-1231,Ananya Mehta,ananya.mehta892@gmail.com,22-05-2025,USB Cable,Electronics,1,599,INR 599,delhi,cod,Shipped
+ORD-0419,CUST-1172,Simran Patel,simran.patel262@gmail.com,05/05/2025,Data Analytics,Books,5,"1,599",₹ 7995,Bangalore,upi,delivered
+ORD-0675,CUST-1116,Sneha Mehta,sneha.mehta245@gmail.com,26/10/2025,Water Bottle,Home,3,₹ 999,2997,Jaipur,debit card,pending
+ORD-0392,CUST-1039,Rohan Yadav,rohan.yadav642@gmail.com,20-08-2025,Keyboard,Electronics,2,499,₹ 998,Mumbai,debit card,Delivered
+ORD-0593,CUST-1236,Rahul Patel,rahul.patel852@gmail.com,2025-05-20,Keyboard,Electronics,3,299,₹897,pune,Credit Card,pending
+ORD-0499,CUST-1206,Vikas Mishra,vikas.mishra184@gmail.com,30/10/2025,Water Bottle,Home,3,₹249,₹747,Pune,credit card,delivered
+ORD-0139,CUST-1131,Neha Mehta,neha.mehta736@gmail.com,03-02-2025,Wall Clock,Home,1,"1,999","INR 1,999",Lucknow,Credit Card,Pending
+ORD-0063,CUST-1212,Ananya Mishra,ananya.mishra687@gmail.com,"Apr 12, 2025",Face Wash,Beauty,6,₹399,2394,Mumbai,Credit Card,shipped
+ORD-0472,CUST-1036,Simran Jain,simran.jain425@gmail.com,"Jul 15, 2025",SQL Handbook,Books,6,599,"INR 3,594",jaipur ,Credit Card,Cancelled
+ORD-0648,CUST-1091,Simran Yadav,simran.yadav790@gmail.com,21/07/2025,Keyboard,Electronics,4,"₹1,299",5196,Delhi,COD,delivered
+ORD-0129,CUST-1209,Priya Singh,priya.singh800@gmail.com,25-10-2025,Headphones,Electronics,1,INR 599,₹599,Bangalore,cod,Pending
+ORD-0980,CUST-1154,Vikas Mishra,vikas.mishra599@gmail.com,"Dec 22, 2025",Water Bottle,Home,4,₹ 1599,₹ 6396,Mumbai,Debit Card,Pending
+ORD-0521,CUST-1039,Rahul Kumar,rahul.kumar991@gmail.com,09/02/2025,Face Wash,Beauty,1,INR 799,799,New Delhi,Credit Card,Cancelled
+ORD-0839,CUST-1204,Priya Kumar,priya.kumar187@gmail.com,12-04-2025,Lip Balm,Beauty,5,₹ 799,"₹3,995",Jaipur,Debit Card,DELIVERED
+ORD-0966,CUST-1002,Priya Jain,priya.jain393@gmail.com,02/04/2025,Shampoo,Beauty,5,"INR 1,299",₹ 6495,Bangalore,cod,Shipped
+ORD-0065,CUST-1059,Vikas Singh,vikas.singh622@gmail.com,"Jan 21, 2025",Cap,Fashion,5,999,4995,mumbai ,UPI,delivered
+ORD-0813,CUST-1146,Aarav Gupta,aarav.gupta726@gmail.com,15/10/2025,T-Shirt,Fashion,5,"INR 1,999","₹9,995",mumbai ,Cash on Delivery,DELIVERED
+ORD-0015,CUST-1018,Aditya Patel,aditya.patel245@gmail.com,2025-10-29,Water Bottle,Home,3,₹199,₹597,Lucknow,UPI,Shipped
+ORD-0157,CUST-1084,Karan Gupta,karan.gupta430@gmail.com,"Sep 14, 2025",Body Lotion,Beauty,4,₹299,"INR 1,196",pune,credit card,cancelled
+ORD-0041,CUST-1021,Priya Kumar,priya.kumar460@gmail.com,09-02-2025,Cap,Fashion,4,"INR 1,999","7,996",Bangalore,debit card,cancelled
+ORD-0493,CUST-1086,Simran Singh,simran.singh563@gmail.com,26/04/2025,Lip Balm,Beauty,4,₹ 799,₹ 3196,New Delhi,cod,Pending
+ORD-0380,CUST-1223,Ananya Mehta,ananya.mehta378@gmail.com,14-10-2025,USB Cable,Electronics,-6,599,"₹3,594",Bengaluru,upi,Pending
+ORD-0188,,Nitin Mehta,nitin.mehta273@gmail.com,"Sep 08, 2025",Wall Clock,Home,5,₹ 1999,"INR 9,995",Lucknow,debit card,DELIVERED
+ORD-0764,CUST-1040,Simran Verma,simran.verma342@gmail.com,"Jul 24, 2025",Perfume,Beauty,4,"INR 1,999","₹7,996",New Delhi,UPI,DELIVERED
+ORD-0217,CUST-1048,Karan Jain,karan.jain200@gmail.com,2025-09-07,Perfume,Beauty,2,1599,"INR 3,198",Pune,Debit Card,DELIVERED
+ORD-0792,CUST-1038,Neha Kumar,neha.kumar840@gmail.com,31/12/2025,Headphones,Electronics,4,"₹1,999","INR 7,996",jaipur ,Credit Card,Pending
+ORD-0053,CUST-1003,Vikas Gupta,vikas.gupta373@gmail.com,13-05-2025,USB Cable,Electronics,3,299,897,Lucknow,Debit Card,cancelled
+ORD-0879,CUST-1134,Simran Sharma,simran.sharma834@gmail.com,2025-09-06,Bedsheet,Home,6,₹499,"₹2,994",Delhi,Credit Card,delivered
+ORD-0338,CUST-1106,Aarav Mishra,aarav.mishra620@gmail.com,21/07/2025,Data Analytics,Books,1,199,INR 199,Lucknow,debit card,Shipped
+ORD-0749,CUST-1187,Ananya Sharma,ananya.sharma110@gmail.com,2025-07-13,Sneakers,Fashion,2,₹ 399,₹798,New Delhi,Credit Card,cancelled
+ORD-0720,CUST-1134,Nitin Singh,nitin.singh19@gmail.com,01-02-2025,Data Analytics,Books,4,₹999,3996,Delhi,upi,Shipped
+ORD-0725,CUST-1033,Ananya Mishra,ananya.mishra209@gmail.com,2025-12-31,Face Wash,Beauty,6,799,4794,Lucknow,cod,Delivered
+ORD-0296,CUST-1010,Rohan Verma,rohan.verma639@gmail.com,"Aug 11, 2025",Storage Box,Home,2,₹ 999,₹ 1998,Pune,Cash on Delivery,Delivered
+ORD-0702,CUST-1159,Aarav Gupta,aarav.gupta31@gmail.com,12/11/2025,Storage Box,Home,5,"2,499","INR 12,495",Lucknow,Cash on Delivery,Shipped
+ORD-0252,CUST-1025,Nitin Kumar,nitin.kumar276@gmail.com,31/03/2025,Hoodie,Fashion,5,₹ 199,₹ 995,pune,cod,Shipped
+ORD-0727,CUST-1244,Aarav Verma,aarav.verma961@gmail.com,"Jun 17, 2025",Wireless Mouse,Electronics,4,"2,499","INR 9,996",Lucknow,Debit Card,Cancelled
+ORD-0462,CUST-1250,Simran Yadav,simran.yadav641@gmail.com,02-07-2025,Storage Box,Home,5,"1,999","INR 9,995",Lucknow,cod,delivered
+ORD-0456,CUST-1197,Vikas Patel,vikas.patel167@gmail.com,08-04-2025, usb cable ,Electronics,5,₹ 199,995,mumbai ,debit card,DELIVERED
+ORD-1000,CUST-1005,Nitin Verma,nitin.verma291@gmail.com,"May 17, 2025",Shampoo,Beauty,1,799,799,New Delhi,credit card,Shipped
+ORD-0816,CUST-1240,Vikas Verma,vikas.verma665@gmail.com,20-04-2025,Face Wash,Beauty,5,299,"₹1,495",Jaipur,Cash on Delivery,Delivered
+ORD-0863,CUST-1135,Vikas Gupta,vikas.gupta493@gmail.com,26/02/2025,Hoodie,Fashion,5,₹199,995,jaipur ,Debit Card,Shipped
+ORD-0270,CUST-1170,Aarav Singh,aarav.singh349@gmail.com,2025-04-16,Storage Box,Home,4,₹ 299,1196,Lucknow,cod,shipped
+ORD-0202,CUST-1153,Karan Kumar,karan.kumar441@gmail.com,"Jun 03, 2025",Shampoo,Beauty,1,₹299,299,mumbai ,credit card,Cancelled
+ORD-0162,CUST-1247,Priya Sharma,priya.sharma112@gmail.com,31-07-2025,Power Bank,Electronics,2,₹ 1999,"₹3,998",jaipur ,Credit Card,Delivered
+ORD-0556,CUST-1114,Sneha Sharma,sneha.sharma985@gmail.com,"Jan 17, 2025",Cap,Fashion,3,"₹1,299",₹ 3897,Pune,debit card,pending
+ORD-0730,CUST-1134,Aditya Sharma,aditya.sharma328@gmail.com,2025-02-01,Jeans,Fashion,3,₹ 799,₹ 2397,Bangalore,debit card,DELIVERED
+ORD-0402,CUST-1001,Rahul Singh,rahul.singh553@gmail.com,"Mar 21, 2025",Body Lotion,Beauty,5,"1,299","6,495",pune,debit card,Cancelled
+ORD-0703,CUST-1035,Vikas Kumar,vikas.kumar216@gmail.com,"Mar 19, 2025",Wireless Mouse,Electronics,2,INR 599,"₹1,198",Mumbai,COD,Pending
+ORD-0477,,Rohan Gupta,rohan.gupta493@gmail.com,19/11/2025,Python Basics,Books,5,1599,7995,mumbai ,UPI,Pending
+ORD-0822,CUST-1209,Rahul Mishra,rahul.mishra396@gmail.com,21-04-2025,Wall Clock,Home,6,"INR 1,299","INR 7,794",jaipur ,UPI,Pending
+ORD-0772,CUST-1228,Neha Mishra,neha.mishra551@gmail.com,06-11-2025,Bedsheet,Home,3,"INR 2,499","7,497",Mumbai,Cash on Delivery,delivered
+ORD-0106,CUST-1005,Priya Patel,priya.patel582@gmail.com,09-12-2025,Wall Clock,Home,5,"₹2,499",₹ 12495,Lucknow,UPI,pending
+ORD-0566,CUST-1065,Ananya Patel,ananya.patel833@gmail.com,"Jun 03, 2025",Bedsheet,Home,1,1999,"1,999",Mumbai,Cash on Delivery,pending
+ORD-0390,CUST-1057,Sneha Mehta,sneha.mehta203@gmail.com,"Jul 30, 2025",Cap,Fashion,2,₹ 199,INR 398,delhi,Cash on Delivery,pending
+ORD-0002,CUST-1195,Sneha Gupta,sneha.gupta743@gmail.com,"Nov 29, 2025",Storage Box,Home,5,INR 199,₹ 995,Jaipur,Debit Card,Delivered
+ORD-0941,CUST-1187,Karan Jain,karan.jain838@gmail.com,"Aug 15, 2025",Sneakers,Fashion,6,₹ 599,"3,594",Delhi,Debit Card,Cancelled
+ORD-0986,CUST-1227,Karan Mishra,karan.mishra413@gmail.com,01/10/2025,Sneakers,Fashion,6,"2,499",₹ 14994,jaipur ,UPI,Shipped
+ORD-0562,CUST-1097,Karan Mishra,karan.mishra537@gmail.com,04-08-2025,T-Shirt,Fashion,4,"₹1,999",₹ 7996,Jaipur,UPI,Pending
+ORD-0081,CUST-1234,Aditya Mehta,aditya.mehta598@gmail.com,01-06-2025,Face Wash,Beauty,2,₹799,₹ 1598,mumbai ,UPI,Delivered
+ORD-0206,CUST-1019,Vikas Verma,vikas.verma658@gmail.com,2025-06-05,T-Shirt,Fashion,4,"1,999","INR 7,996",Lucknow,Cash on Delivery,pending
+ORD-0035,CUST-1104,Simran Kumar,simran.kumar577@gmail.com,2025-03-07,Hoodie,Fashion,3,₹ 799,₹ 2397,jaipur ,Credit Card,shipped
+ORD-0776,CUST-1249,Ananya Sharma,ananya.sharma988@gmail.com,17/10/2025,Excel Guide,Books,6,INR 299,₹ 1794,Pune,cod,cancelled
+ORD-0509,CUST-1052,Vikas Verma,vikas.verma406@gmail.com,2025-07-11,Shampoo,Beauty,2,₹ 1599,"INR 3,198",jaipur ,debit card,shipped
+ORD-0428,CUST-1249,Karan Patel,karan.patel993@gmail.com,2025-12-14,Shampoo,Beauty,1,₹ 2499,"INR 2,499",Jaipur,Credit Card,pending
+ORD-0455,CUST-1234,Vikas Kumar,vikas.kumar231@gmail.com,26-09-2025,USB Cable,Electronics,2,INR 599,"₹1,198",Bangalore,UPI,Shipped
+ORD-0367,CUST-1105,Priya Mishra,priya.mishra996@gmail.com,"Apr 10, 2025",Excel Guide,Books,3,₹ 499,1497,Delhi,Debit Card,DELIVERED
+ORD-0092,CUST-1151,Rahul Patel,rahul.patel266@gmail.com,31/03/2025,Python Basics,Books,3,₹299,INR 897,Delhi,debit card,Shipped
+ORD-0340,CUST-1073,Rohan Kumar,rohan.kumar110@gmail.com,"Apr 12, 2025",Python Basics,Books,3,"1,999","5,997",delhi,credit card,delivered
+ORD-0898,CUST-1006,Rohan Sharma,rohan.sharma518@gmail.com,2025-09-17,Bedsheet,Home,6,199,₹ 1194,Pune,Debit Card,Shipped
+ORD-0565,CUST-1110,Simran Mishra,simran.mishra107@gmail.com,31-10-2025,Storage Box,Home,6,249,"₹1,494",Jaipur,cod,Cancelled
+ORD-0346,CUST-1241,Priya Mishra,priya.mishra710@gmail.com,2025-03-26,Cap,Fashion,1,₹ 1999,"INR 1,999",delhi,Credit Card,Cancelled
+ORD-0777,CUST-1041,Karan Patel,karan.patel808@gmail.com,"Jul 19, 2025",Keyboard,Electronics,4,1299,"5,196",Mumbai,Credit Card,Delivered
+ORD-0242,CUST-1063,Ananya Singh,ananya.singh925@gmail.com,21/10/2025,Data Analytics,Books,3,INR 299,897,Delhi,UPI,Delivered
+ORD-0014,CUST-1064,Simran Gupta,simran.gupta740@gmail.com,"Jun 09, 2025",SQL Handbook,Books,2,"1,299",₹ 2598,pune,COD,delivered
+ORD-0316,CUST-1230,Priya Sharma,priya.sharma359@gmail.com,01-07-2025,Face Wash,Beauty,1,1999,1999,Bangalore,upi,Delivered
+ORD-0601,CUST-1131,Priya Patel,priya.patel447@gmail.com,01/06/2025,Table Lamp,Home,6,499,"₹2,994",New delhi ,cod,delivered
+ORD-0388,CUST-1078,Sneha Gupta,sneha.gupta834@gmail.com,"Feb 15, 2025",Excel Guide,Books,3,999,"2,997",Bengaluru,Debit Card,DELIVERED
+ORD-0274,CUST-1142,Aditya Sharma,aditya.sharma164@gmail.com,23/12/2025,Body Lotion,Beauty,2,₹499,998,pune,Cash on Delivery,Shipped
+ORD-0167,CUST-1083,Karan Jain,karan.jain537@gmail.com,17/06/2025,Table Lamp,Home,5,₹ 1999,"₹9,995",delhi,Credit Card,Cancelled
+ORD-0841,CUST-1102,Rohan Yadav,rohan.yadav181@gmail.com,18-01-2025,Excel Guide,Books,3,1999,₹ 5997,mumbai ,cod,Pending
+ORD-0996,CUST-1038,Aditya Gupta,aditya.gupta950@gmail.com,"Sep 26, 2025",Sneakers,Fashion,4,"₹2,499","₹9,996",Bangalore,debit card,Delivered
+ORD-0647,CUST-1002,Neha Mehta,neha.mehta225@gmail.com,24-08-2025,Body Lotion,Beauty,2,"₹1,999","INR 3,998",jaipur ,UPI,Cancelled
+ORD-0819,CUST-1144,Karan Yadav,karan.yadav496@gmail.com,2025-10-02,Jeans,Fashion,2,₹ 599,"1,198",Lucknow,Cash on Delivery,Delivered
+ORD-0485,CUST-1134,Neha Kumar,neha.kumar283@gmail.com,20-02-2025,Perfume,Beauty,6,499,₹ 2994,Pune,credit card,Shipped
+ORD-0984,CUST-1121,Simran Gupta,simran.gupta167@gmail.com,17-12-2025,Table Lamp,Home,4,₹249,₹ 996,delhi,debit card,delivered
+ORD-0505,CUST-1166,Rohan Verma,rohan.verma711@gmail.com,"Aug 31, 2025",Bedsheet,Home,1,,INR 399,jaipur ,UPI,Delivered
+ORD-0832,CUST-1050,Rahul Yadav,rahul.yadav659@gmail.com,20-11-2025,Face Wash,Beauty,6,"INR 2,499","INR 14,994",jaipur ,credit card,shipped
+ORD-0244,CUST-1084,Sneha Sharma,sneha.sharma193@gmail.com,25/04/2025,Power Bank,Electronics,3,₹ 249,₹747,Pune,Debit Card,shipped
+ORD-0567,CUST-1240,Sneha Verma,sneha.verma912@gmail.com,2025-01-10,AI Fundamentals,Books,4,1999,₹ 7996,Mumbai,COD,shipped
+ORD-0876,CUST-1207,Sneha Mishra,sneha.mishra908@gmail.com,31/05/2025,Excel Guide,Books,2,₹ 1599,"INR 3,198",Bengaluru,UPI,Cancelled
+ORD-0563,CUST-1158,Rohan Yadav,rohan.yadav112@gmail.com,2025-12-20,SQL Handbook,Books,3,"1,599",₹ 4797,pune,debit card,DELIVERED
+ORD-0687,CUST-1017,Aditya Kumar,aditya.kumar611@gmail.com,"Apr 14, 2025",Lip Balm,Beauty,2,"1,599","INR 3,198",Delhi,Credit Card,Cancelled
+ORD-0190,CUST-1106,Vikas Mehta,vikas.mehta71@gmail.com,"Nov 13, 2025",Water Bottle,Home,2,₹ 1299,"₹2,598",Delhi,cod,cancelled
+ORD-0783,CUST-1047,Karan Verma,karan.verma466@gmail.com,"Apr 29, 2025",Jeans,Fashion,5,"1,999","INR 9,995",Pune,upi,Cancelled
+ORD-0700,CUST-1174,Aditya Yadav,aditya.yadav114@gmail.com,2025-12-31,Keyboard,Electronics,4,499,"₹1,996",Jaipur,debit card,pending
+ORD-0476,CUST-1120,Vikas Mehta,vikas.mehta125@gmail.com,"Oct 25, 2025",T-Shirt,Fashion,1,"₹1,599","INR 1,599",Lucknow,cod,shipped
+ORD-0682,CUST-1146,Simran Patel,simran.patel316@gmail.com,16/06/2025,Lip Balm,Beauty,6,799,"₹4,794",delhi,Credit Card,Pending
+ORD-0511,CUST-1152,Aditya Verma,aditya.verma601@gmail.com,2025-10-11,Cap,Fashion,2,"₹1,999",₹ 3998,pune,COD,Shipped
+ORD-0059,CUST-1039,Vikas Singh,vikas.singh851@gmail.com,"Feb 03, 2025",Jeans,Fashion,1,₹ 499,₹499,Jaipur,UPI,DELIVERED
+ORD-0475,CUST-1148,Rahul Jain,rahul.jain629@gmail.com,"Jan 04, 2025",Lip Balm,Beauty,3,INR 399,1197,mumbai ,Cash on Delivery,cancelled
+ORD-0561,CUST-1138,Ananya Mishra,ananya.mishra96@gmail.com,19/12/2025,Table Lamp,Home,2,"1,999","₹3,998",Bangalore,Credit Card,Delivered
+ORD-0857,CUST-1050,Sneha Mehta,sneha.mehta64@gmail.com,14-08-2025,Wall Clock,Home,5,799,"₹3,995",Delhi,Cash on Delivery,pending
+ORD-0748,CUST-1233,Rohan Patel,rohan.patel122@gmail.com,"Dec 17, 2025",Data Analytics,Books,1,₹499,499,jaipur ,upi,Pending
+ORD-0253,CUST-1235,Aarav Sharma,aarav.sharma860@gmail.com,2025-04-24,Face Wash,Beauty,2,INR 249,₹ 498,Bangalore,upi,shipped
+ORD-0022,CUST-1159,Rohan Mishra,rohan.mishra79@gmail.com,2025-12-12,Power Bank,Electronics,1,₹ 299,₹299,Jaipur,credit card,Delivered
+ORD-0314,CUST-1144,Aarav Patel,aarav.patel572@gmail.com,01/01/2025,Wireless Mouse,Electronics,4,799,3196,jaipur ,Debit Card,cancelled
+ORD-0460,CUST-1157,Neha Kumar,neha.kumar154@gmail.com,27-12-2025,Storage Box,Home,3,1299,"INR 3,897",delhi,upi,shipped
+ORD-0161,CUST-1063,Priya Gupta,priya.gupta857@gmail.com,03-10-2025,Body Lotion,Beauty,6,999,"5,994",delhi,upi,Shipped
+ORD-0277,CUST-1084,Rahul Mishra,rahul.mishra274@gmail.com,13/06/2025,USB Cable,Electronics,2,"₹1,999",₹ 3998,pune,Cash on Delivery,cancelled
+ORD-0956,CUST-1133,Neha Mishra,neha.mishra675@gmail.com,2025-03-26,Cap,Fashion,3,"1,599",4797,jaipur ,credit card,Pending
+ORD-0192,CUST-1077,Neha Kumar,neha.kumar824@gmail.com,23/07/2025,Storage Box,Home,5,499,₹ 2495,Pune,credit card,Shipped
+ORD-0386,CUST-1222,Vikas Verma,vikas.verma144@gmail.com,2025-09-27,Table Lamp,Home,6,₹499,"₹2,994",jaipur ,debit card,Pending
+ORD-0806,CUST-1129,Karan Mehta,karan.mehta142@gmail.com,26/12/2025,Perfume,Beauty,2,599,₹ 1198,Lucknow,cod,delivered
+ORD-0414,CUST-1010,Aditya Gupta,aditya.gupta761@gmail.com,09-02-2025,T-Shirt,Fashion,5,₹ 799,"INR 3,995",Pune,upi,shipped
+ORD-0492,CUST-1182,Aarav Sharma,aarav.sharma690@gmail.com,19-07-2025,Shampoo,Beauty,6,"INR 1,999","11,994",Bengaluru,UPI,cancelled
+ORD-0344,CUST-1140,Nitin Sharma,nitin.sharma842@gmail.com,"Oct 25, 2025",Wireless Mouse,Electronics,1,1299,"INR 1,299",Delhi,cod,shipped
+ORD-0770,CUST-1233,Aarav Verma,aarav.verma51@gmail.com,01/01/2025,Hoodie,Fashion,2,599,"INR 1,198",mumbai ,COD,shipped
+ORD-0309,CUST-1124,Vikas Mishra,vikas.mishra704@gmail.com,2025-08-13,Water Bottle,Home,4,1599,₹ 6396,Bangalore,UPI,DELIVERED
+ORD-0662,CUST-1150,Rahul Sharma,rahul.sharma71@gmail.com,07-03-2025,SQL Handbook,Books,2,399,₹ 798,pune,debit card,shipped
+ORD-0131,CUST-1092,Sneha Jain,sneha.jain844@gmail.com,"Oct 06, 2025",Water Bottle,Home,3,499,"₹1,497",jaipur ,credit card,shipped
+ORD-0664,CUST-1154,Neha Gupta,neha.gupta215@gmail.com,2025-11-24,AI Fundamentals,Books,1,₹799,799,Mumbai,COD,Cancelled
+ORD-0872,CUST-1145,Nitin Jain,nitin.jain442@gmail.com,24/07/2025,USB Cable,Electronics,3,399,"1,197",Jaipur,Debit Card,DELIVERED
+ORD-0100,CUST-1156,Rohan Kumar,rohan.kumar597@gmail.com,"Apr 26, 2025",Headphones,Electronics,5,599,2995,Jaipur,cod,Delivered
+ORD-0373,CUST-1057,Neha Mishra,neha.mishra332@gmail.com,10-09-2025,Power Bank,Electronics,1,₹ 999,INR 999,pune,Debit Card,pending
+ORD-0088,CUST-1168,Sneha Verma,sneha.verma407@gmail.com,21-08-2025,Face Wash,Beauty,1,399,₹ 399,Jaipur,Credit Card,pending
+ORD-0459,CUST-1027,Rohan Kumar,rohan.kumar162@gmail.com,22-03-2025,Excel Guide,Books,4,"₹1,999","₹7,996",Jaipur,cod,cancelled
+ORD-0331,CUST-1234,Nitin Mehta,nitin.mehta400@gmail.com,"Feb 28, 2025",AI Fundamentals,Books,2,199,398,Lucknow,Debit Card,Delivered
+ORD-0215,CUST-1236,Aditya Jain,aditya.jain635@gmail.com,20/07/2025,Perfume,Beauty,6,599,"3,594",Pune,Credit Card,shipped
+ORD-0467,CUST-1152,Aditya Mehta,aditya.mehta567@gmail.com,2025-12-22,Storage Box,Home,4,INR 799,"₹3,196",Lucknow,COD,delivered
+ORD-0122,CUST-1070,Aarav Yadav,aarav.yadav905@gmail.com,10/07/2025,Storage Box,Home,2,499,₹998,mumbai ,upi,DELIVERED
+ORD-0615,CUST-1238,Neha Mehta,neha.mehta797@gmail.com,24-01-2025,Data Analytics,Books,4,INR 499,1996,Jaipur,upi,Delivered
+ORD-0021,CUST-1041,Simran Patel,simran.patel72@gmail.com,10/06/2025,Jeans,Fashion,1,"₹1,599",1599,Pune,cod,cancelled
+ORD-0701,CUST-1131,  simran mehta ,simran.mehta881@gmail.com,"Dec 08, 2025",Bedsheet,Home,2,"₹1,999","3,998",Delhi,COD,pending
+ORD-0072,CUST-1073,Sneha Verma,sneha.verma894@gmail.com,05-02-2025,Wall Clock,Home,2,₹ 1599,"3,198",pune,Debit Card,Delivered
+ORD-0107,CUST-1044,Karan Mishra,karan.mishra424@gmail.com,"Dec 30, 2025",Face Wash,Beauty,3,"1,599","₹4,797",Bengaluru,UPI,Pending
+ORD-0271,CUST-1023,Aarav Jain,aarav.jain595@gmail.com,"Oct 09, 2025",Sneakers,Fashion,2,INR 249,₹498,Bangalore,UPI,pending
+ORD-0861,CUST-1048,Simran Mishra,simran.mishra498@gmail.com,2025-06-06,Wireless Mouse,Electronics,2,"INR 1,299","2,598",jaipur ,upi,DELIVERED
+ORD-0436,CUST-1049,Vikas Sharma,vikas.sharma908@gmail.com,"May 06, 2025",Power Bank,Electronics,1,₹999,999,Bengaluru,cod,Delivered
+ORD-0103,CUST-1056,Aarav Singh,aarav.singh288@gmail.com,"Aug 15, 2025",Keyboard,Electronics,2,₹ 1599,3198,Pune,Cash on Delivery,shipped
