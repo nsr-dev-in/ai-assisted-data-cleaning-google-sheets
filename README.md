@@ -162,15 +162,3 @@ The project uses a messy e-commerce orders dataset containing:
 | City | Customer city |
 | Payment_Method | Payment method |
 | Order_Status | Order fulfillment status |
-
----
-
-## 📂 Project Structure
-
-```text
-ai-assisted-data-cleaning-google-sheets/
-│
-├── Raw_Data.csv
-├── Cleaned_Data.csv
-├── README.md
-└── Cleaning_Log
